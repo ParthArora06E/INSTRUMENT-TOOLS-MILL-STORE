@@ -38,7 +38,7 @@ export default function ProductGrid({ preview = false }: { preview?: boolean }) 
       </div>
 
       {/* Grid */}
-      <motion.div layout className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 sm:gap-6">
+      <motion.div layout className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 sm:gap-6">
         <AnimatePresence>
           {displayProducts.map((product) => (
             <ProductCard key={product.id} product={product} />

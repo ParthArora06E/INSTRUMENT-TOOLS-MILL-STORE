@@ -18,7 +18,7 @@ export default function Home() {
       <FeatureStrip />
       
       {/* Featured Products Section */}
-      <div id="products" className="w-full py-24 bg-white">
+      <div id="products" className="w-full py-16 md:py-24 bg-white scroll-mt-24">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <span className="text-brand-red font-bold tracking-wider uppercase text-sm mb-2 block">Our Inventory</span>

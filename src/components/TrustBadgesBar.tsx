@@ -13,7 +13,7 @@ export default function TrustBadgesBar() {
   ];
 
   return (
-    <div id="why-choose-us" className="py-20 bg-gray-50">
+    <div id="why-choose-us" className="py-20 bg-gray-50 scroll-mt-24">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <span className="text-brand-red font-bold tracking-wider uppercase text-sm mb-2 block">Why Choose Us</span>
