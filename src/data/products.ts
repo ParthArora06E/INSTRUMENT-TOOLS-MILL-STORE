@@ -12,7 +12,7 @@ export const products: Product[] = [
     "id": "1",
     "name": "EPX300",
     "category": "Digital Portable Metal Hardness Tester",
-    "image": "/images/001-epx300.jpg?v=1790685327603",
+    "image": "/images/001-epx300.jpg",
     "slug": "epx300",
     "shortDescription": "Professional EPX300 for industrial applications."
   },
@@ -20,7 +20,7 @@ export const products: Product[] = [
     "id": "2",
     "name": "EPX 5500",
     "category": "Digital Portable Metal Hardness Tester",
-    "image": "/images/002-epx-5500.jpg?v=1790685327604",
+    "image": "/images/002-epx-5500.jpg",
     "slug": "epx-5500",
     "shortDescription": "Professional EPX 5500 for industrial applications."
   },
@@ -28,7 +28,7 @@ export const products: Product[] = [
     "id": "3",
     "name": "TH 170",
     "category": "Digital Portable Metal Hardness Tester",
-    "image": "/images/003-th-170.jpg?v=1790685327604",
+    "image": "/images/003-th-170.jpg",
     "slug": "th-170",
     "shortDescription": "Professional TH 170 for industrial applications."
   },
@@ -36,7 +36,7 @@ export const products: Product[] = [
     "id": "4",
     "name": "TH 110",
     "category": "Digital Portable Metal Hardness Tester",
-    "image": "/images/004-th-110-v2.jpeg?v=1790685327604",
+    "image": "/images/004-th-110-v2.jpeg",
     "slug": "th-110",
     "shortDescription": "Professional TH 110 for industrial applications."
   },
@@ -44,7 +44,7 @@ export const products: Product[] = [
     "id": "5",
     "name": "Single Needle",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/005-single-needle.jpg?v=1790685327604",
+    "image": "/images/005-single-needle.jpg",
     "slug": "single-needle",
     "shortDescription": "Professional Single Needle for industrial applications."
   },
@@ -52,7 +52,7 @@ export const products: Product[] = [
     "id": "6",
     "name": "Dual Needle Heavy Duty",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/006-dual-needle-heavy-duty.jpg?v=1790685327604",
+    "image": "/images/006-dual-needle-heavy-duty.jpg",
     "slug": "dual-needle-heavy-duty",
     "shortDescription": "Professional Dual Needle Heavy Duty for industrial applications."
   },
@@ -60,7 +60,7 @@ export const products: Product[] = [
     "id": "7",
     "name": "Digital Eco",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/007-digital-eco.jpg?v=1790685327604",
+    "image": "/images/007-digital-eco.jpg",
     "slug": "digital-eco",
     "shortDescription": "Professional Digital Eco for industrial applications."
   },
@@ -68,7 +68,7 @@ export const products: Product[] = [
     "id": "8",
     "name": "Digital Industrial",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/008-digital-industrial.jpg?v=1790685327605",
+    "image": "/images/008-digital-industrial.jpg",
     "slug": "digital-industrial",
     "shortDescription": "Professional Digital Industrial for industrial applications."
   },
@@ -76,7 +76,7 @@ export const products: Product[] = [
     "id": "9",
     "name": "Double Needle",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/009-double-needle.jpg?v=1790685327605",
+    "image": "/images/009-double-needle.jpg",
     "slug": "double-needle",
     "shortDescription": "Professional Double Needle for industrial applications."
   },
@@ -84,7 +84,7 @@ export const products: Product[] = [
     "id": "10",
     "name": "Single Needle (Eco)",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/010-single-needle-eco.jpg?v=1790685327605",
+    "image": "/images/010-single-needle-eco.jpg",
     "slug": "single-needle-eco",
     "shortDescription": "Professional Single Needle (Eco) for industrial applications."
   },
@@ -92,7 +92,7 @@ export const products: Product[] = [
     "id": "11",
     "name": "Kori Rubber Hardness Tester",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/011-kori-rubber-hardness-tester.jpg?v=1790685327605",
+    "image": "/images/011-kori-rubber-hardness-tester.jpg",
     "slug": "kori-rubber-hardness-tester",
     "shortDescription": "Professional Kori Rubber Hardness Tester for industrial applications."
   },
@@ -100,7 +100,7 @@ export const products: Product[] = [
     "id": "12",
     "name": "Asker-C Hardness Tester",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/012-asker-c-hardness-tester.jpg?v=1790685327606",
+    "image": "/images/012-asker-c-hardness-tester.jpg",
     "slug": "asker-c-hardness-tester",
     "shortDescription": "Professional Asker-C Hardness Tester for industrial applications."
   },
@@ -108,7 +108,7 @@ export const products: Product[] = [
     "id": "13",
     "name": "CAFM Hardness Tester",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/013-cafm-hardness-tester.jpg?v=1790685327606",
+    "image": "/images/013-cafm-hardness-tester.jpg",
     "slug": "cafm-hardness-tester",
     "shortDescription": "Professional CAFM Hardness Tester for industrial applications."
   },
@@ -116,7 +116,7 @@ export const products: Product[] = [
     "id": "14",
     "name": "Hardness Tester Stand",
     "category": "Rubber Hardness Tester – Shore A + D + C / Durometer",
-    "image": "/images/014-hardness-tester-stand.jpg?v=1790685327606",
+    "image": "/images/014-hardness-tester-stand.jpg",
     "slug": "hardness-tester-stand",
     "shortDescription": "Professional Hardness Tester Stand for industrial applications."
   },
@@ -124,7 +124,7 @@ export const products: Product[] = [
     "id": "15",
     "name": "CTG 804 FNF",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/015-ctg-804-fnf.jpg?v=1790685327606",
+    "image": "/images/015-ctg-804-fnf.jpg",
     "slug": "ctg-804-fnf",
     "shortDescription": "Professional CTG 804 FNF for industrial applications."
   },
@@ -132,7 +132,7 @@ export const products: Product[] = [
     "id": "16",
     "name": "CTG 803 FNF",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/016-ctg-803-fnf.jpg?v=1790685327606",
+    "image": "/images/016-ctg-803-fnf.jpg",
     "slug": "ctg-803-fnf",
     "shortDescription": "Professional CTG 803 FNF for industrial applications."
   },
@@ -140,7 +140,7 @@ export const products: Product[] = [
     "id": "17",
     "name": "CTG 801 FNF",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/017-ctg-801-fnf.jpg?v=1790685327606",
+    "image": "/images/017-ctg-801-fnf.jpg",
     "slug": "ctg-801-fnf",
     "shortDescription": "Professional CTG 801 FNF for industrial applications."
   },
@@ -148,7 +148,7 @@ export const products: Product[] = [
     "id": "18",
     "name": "CTG 805 FNF",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/018-ctg-805-fnf.jpg?v=1790685327607",
+    "image": "/images/018-ctg-805-fnf.jpg",
     "slug": "ctg-805-fnf",
     "shortDescription": "Professional CTG 805 FNF for industrial applications."
   },
@@ -156,7 +156,7 @@ export const products: Product[] = [
     "id": "19",
     "name": "CTG 333A",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/019-ctg-333a.jpg?v=1790685327607",
+    "image": "/images/019-ctg-333a.jpg",
     "slug": "ctg-333a",
     "shortDescription": "Professional CTG 333A for industrial applications."
   },
@@ -164,7 +164,7 @@ export const products: Product[] = [
     "id": "20",
     "name": "CTG 444 HP",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/020-ctg-444-hp.jpg?v=1790685327607",
+    "image": "/images/020-ctg-444-hp.jpg",
     "slug": "ctg-444-hp",
     "shortDescription": "Professional CTG 444 HP for industrial applications."
   },
@@ -172,7 +172,7 @@ export const products: Product[] = [
     "id": "21",
     "name": "CTG 111A",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/021-ctg-111a.jpg?v=1790685327607",
+    "image": "/images/021-ctg-111a.jpg",
     "slug": "ctg-111a",
     "shortDescription": "Professional CTG 111A for industrial applications."
   },
@@ -180,7 +180,7 @@ export const products: Product[] = [
     "id": "22",
     "name": "8821 PRO",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/022-8821-pro.jpg?v=1790685327607",
+    "image": "/images/022-8821-pro.jpg",
     "slug": "8821-pro",
     "shortDescription": "Professional 8821 PRO for industrial applications."
   },
@@ -188,7 +188,7 @@ export const products: Product[] = [
     "id": "23",
     "name": "CTG 808 PRO",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/023-ctg-808-pro.jpg?v=1790685327607",
+    "image": "/images/023-ctg-808-pro.jpg",
     "slug": "ctg-808-pro",
     "shortDescription": "Professional CTG 808 PRO for industrial applications."
   },
@@ -196,7 +196,7 @@ export const products: Product[] = [
     "id": "24",
     "name": "8821",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/024-8821.jpg?v=1790685327607",
+    "image": "/images/024-8821.jpg",
     "slug": "8821",
     "shortDescription": "Professional 8821 for industrial applications."
   },
@@ -204,7 +204,7 @@ export const products: Product[] = [
     "id": "25",
     "name": "CTG 222",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/025-ctg-222.jpg?v=1790685327608",
+    "image": "/images/025-ctg-222.jpg",
     "slug": "ctg-222",
     "shortDescription": "Professional CTG 222 for industrial applications."
   },
@@ -212,7 +212,7 @@ export const products: Product[] = [
     "id": "26",
     "name": "CTG 222A",
     "category": "Coating Thickness Gauges – DFT Meters",
-    "image": "/images/026-ctg-222a.jpg?v=1790685327608",
+    "image": "/images/026-ctg-222a.jpg",
     "slug": "ctg-222a",
     "shortDescription": "Professional CTG 222A for industrial applications."
   },
@@ -220,7 +220,7 @@ export const products: Product[] = [
     "id": "27",
     "name": "UTM9",
     "category": "Ultrasonic Thickness Gauge",
-    "image": "/images/027-utm9.jpg?v=1790685327608",
+    "image": "/images/027-utm9.jpg",
     "slug": "utm9",
     "shortDescription": "Professional UTM9 for industrial applications."
   },
@@ -228,7 +228,7 @@ export const products: Product[] = [
     "id": "28",
     "name": "UTG 111A",
     "category": "Ultrasonic Thickness Gauge",
-    "image": "/images/028-utg-111a.jpg?v=1790685327608",
+    "image": "/images/028-utg-111a.jpg",
     "slug": "utg-111a",
     "shortDescription": "Professional UTG 111A for industrial applications."
   },
@@ -236,7 +236,7 @@ export const products: Product[] = [
     "id": "29",
     "name": "TT 100P",
     "category": "Ultrasonic Thickness Gauge",
-    "image": "/images/029-tt-100p.jpg?v=1790685327608",
+    "image": "/images/029-tt-100p.jpg",
     "slug": "tt-100p",
     "shortDescription": "Professional TT 100P for industrial applications."
   },
@@ -244,7 +244,7 @@ export const products: Product[] = [
     "id": "30",
     "name": "TT 300P",
     "category": "Ultrasonic Thickness Gauge",
-    "image": "/images/030-tt-300p.jpg?v=1790685327608",
+    "image": "/images/030-tt-300p.jpg",
     "slug": "tt-300p",
     "shortDescription": "Professional TT 300P for industrial applications."
   },
@@ -252,7 +252,7 @@ export const products: Product[] = [
     "id": "31",
     "name": "Dial Force Gauge",
     "category": "Force Gauges / Push-Pull Gauge",
-    "image": "/images/031-dial-force-gauge.jpg?v=1790685327608",
+    "image": "/images/031-dial-force-gauge.jpg",
     "slug": "dial-force-gauge",
     "shortDescription": "Professional Dial Force Gauge for industrial applications."
   },
@@ -260,7 +260,7 @@ export const products: Product[] = [
     "id": "32",
     "name": "Digital Force Gauge (EFGE)",
     "category": "Force Gauges / Push-Pull Gauge",
-    "image": "/images/032-digital-force-gauge-efge.jpg?v=1790685327608",
+    "image": "/images/032-digital-force-gauge-efge.jpg",
     "slug": "digital-force-gauge-efge",
     "shortDescription": "Professional Digital Force Gauge (EFGE) for industrial applications."
   },
@@ -268,7 +268,7 @@ export const products: Product[] = [
     "id": "33",
     "name": "Digital Force Gauge (Eco)",
     "category": "Force Gauges / Push-Pull Gauge",
-    "image": "/images/033-digital-force-gauge-eco.jpg?v=1790685327608",
+    "image": "/images/033-digital-force-gauge-eco.jpg",
     "slug": "digital-force-gauge-eco",
     "shortDescription": "Professional Digital Force Gauge (Eco) for industrial applications."
   },
@@ -276,7 +276,7 @@ export const products: Product[] = [
     "id": "34",
     "name": "Digital Force Gauge (Commercial)",
     "category": "Force Gauges / Push-Pull Gauge",
-    "image": "/images/034-digital-force-gauge-commercial.jpg?v=1790685327608",
+    "image": "/images/034-digital-force-gauge-commercial.jpg",
     "slug": "digital-force-gauge-commercial",
     "shortDescription": "Professional Digital Force Gauge (Commercial) for industrial applications."
   },
@@ -284,7 +284,7 @@ export const products: Product[] = [
     "id": "35",
     "name": "TR 110+",
     "category": "Roughness Testers & Comparators",
-    "image": "/images/035-tr-110.jpg?v=1790685327609",
+    "image": "/images/035-tr-110.jpg",
     "slug": "tr-110",
     "shortDescription": "Professional TR 110+ for industrial applications."
   },
@@ -292,7 +292,7 @@ export const products: Product[] = [
     "id": "36",
     "name": "TR 200+",
     "category": "Roughness Testers & Comparators",
-    "image": "/images/036-tr-200.jpg?v=1790685327609",
+    "image": "/images/036-tr-200.jpg",
     "slug": "tr-200",
     "shortDescription": "Professional TR 200+ for industrial applications."
   },
@@ -300,7 +300,7 @@ export const products: Product[] = [
     "id": "37",
     "name": "Profile Gauge",
     "category": "Roughness Testers & Comparators",
-    "image": "/images/037-profile-gauge.jpg?v=1790685327609",
+    "image": "/images/037-profile-gauge.jpg",
     "slug": "profile-gauge",
     "shortDescription": "Professional Profile Gauge for industrial applications."
   },
@@ -308,7 +308,7 @@ export const products: Product[] = [
     "id": "38",
     "name": "SA 2.5 Shot Blasting Comparator",
     "category": "Roughness Testers & Comparators",
-    "image": "/images/038-sa-2-5-shot-blasting-comparator-v2.jpeg?v=1790685327609",
+    "image": "/images/038-sa-2-5-shot-blasting-comparator-v2.jpeg",
     "slug": "sa-2-5-shot-blasting-comparator",
     "shortDescription": "Professional SA 2.5 Shot Blasting Comparator for industrial applications."
   },
@@ -316,7 +316,7 @@ export const products: Product[] = [
     "id": "39",
     "name": "Paint Impact Tester",
     "category": "Roughness Testers & Comparators",
-    "image": "/images/039-paint-impact-tester.jpg?v=1790685327609",
+    "image": "/images/039-paint-impact-tester.jpg",
     "slug": "paint-impact-tester",
     "shortDescription": "Professional Paint Impact Tester for industrial applications."
   },
@@ -324,7 +324,7 @@ export const products: Product[] = [
     "id": "40",
     "name": "Pencil Hardness Tester",
     "category": "Pencil Hardness + Gloss Meters",
-    "image": "/images/040-pencil-hardness-tester.jpg?v=1790685327609",
+    "image": "/images/040-pencil-hardness-tester.jpg",
     "slug": "pencil-hardness-tester",
     "shortDescription": "Professional Pencil Hardness Tester for industrial applications."
   },
@@ -332,7 +332,7 @@ export const products: Product[] = [
     "id": "41",
     "name": "1 Angle Gloss Meter (Eco)",
     "category": "Pencil Hardness + Gloss Meters",
-    "image": "/images/041-1-angle-gloss-meter-eco.jpg?v=1790685327609",
+    "image": "/images/041-1-angle-gloss-meter-eco.jpg",
     "slug": "1-angle-gloss-meter-eco",
     "shortDescription": "Professional 1 Angle Gloss Meter (Eco) for industrial applications."
   },
@@ -340,7 +340,7 @@ export const products: Product[] = [
     "id": "42",
     "name": "Gloss Meter One Angle (HP)",
     "category": "Pencil Hardness + Gloss Meters",
-    "image": "/images/042-gloss-meter-one-angle-hp.jpg?v=1790685327609",
+    "image": "/images/042-gloss-meter-one-angle-hp.jpg",
     "slug": "gloss-meter-one-angle-hp",
     "shortDescription": "Professional Gloss Meter One Angle (HP) for industrial applications."
   },
@@ -348,7 +348,7 @@ export const products: Product[] = [
     "id": "43",
     "name": "Gloss Meter Three Angle (HP)",
     "category": "Pencil Hardness + Gloss Meters",
-    "image": "/images/043-gloss-meter-three-angle-hp.jpg?v=1790685327609",
+    "image": "/images/043-gloss-meter-three-angle-hp.jpg",
     "slug": "gloss-meter-three-angle-hp",
     "shortDescription": "Professional Gloss Meter Three Angle (HP) for industrial applications."
   },
@@ -356,7 +356,7 @@ export const products: Product[] = [
     "id": "44",
     "name": "Tublor Impact Tester",
     "category": "Pencil Hardness + Gloss Meters",
-    "image": "/images/044-tublor-impact-tester-v2.jpeg?v=1790685327609",
+    "image": "/images/044-tublor-impact-tester-v2.jpeg",
     "slug": "tublor-impact-tester",
     "shortDescription": "Professional Tublor Impact Tester for industrial applications."
   },
@@ -364,7 +364,7 @@ export const products: Product[] = [
     "id": "45",
     "name": "Holiday Detector",
     "category": "Measuring Instruments",
-    "image": "/images/045-holiday-detector.jpg?v=1790685327609",
+    "image": "/images/045-holiday-detector.jpg",
     "slug": "holiday-detector",
     "shortDescription": "Professional Holiday Detector for industrial applications."
   },
@@ -372,7 +372,7 @@ export const products: Product[] = [
     "id": "46",
     "name": "Press O Film",
     "category": "Measuring Instruments",
-    "image": "/images/046-press-o-film.jpg?v=1790685327610",
+    "image": "/images/046-press-o-film.jpg",
     "slug": "press-o-film",
     "shortDescription": "Professional Press O Film for industrial applications."
   },
@@ -380,7 +380,7 @@ export const products: Product[] = [
     "id": "47",
     "name": "Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/047-thickness-gauge.jpg?v=1790685327610",
+    "image": "/images/047-thickness-gauge.jpg",
     "slug": "thickness-gauge",
     "shortDescription": "Professional Thickness Gauge for industrial applications."
   },
@@ -388,7 +388,7 @@ export const products: Product[] = [
     "id": "48",
     "name": "Dust Tape",
     "category": "Measuring Instruments",
-    "image": "/images/048-dust-tape.jpg?v=1790685327610",
+    "image": "/images/048-dust-tape.jpg",
     "slug": "dust-tape",
     "shortDescription": "Professional Dust Tape for industrial applications."
   },
@@ -396,7 +396,7 @@ export const products: Product[] = [
     "id": "49",
     "name": "Salt Contamination",
     "category": "Measuring Instruments",
-    "image": "/images/049-salt-contamination.jpg?v=1790685327610",
+    "image": "/images/049-salt-contamination.jpg",
     "slug": "salt-contamination",
     "shortDescription": "Professional Salt Contamination for industrial applications."
   },
@@ -404,7 +404,7 @@ export const products: Product[] = [
     "id": "50",
     "name": "Adhesion Tester",
     "category": "Measuring Instruments",
-    "image": "/images/050-adhesion-tester.jpg?v=1790685327610",
+    "image": "/images/050-adhesion-tester.jpg",
     "slug": "adhesion-tester",
     "shortDescription": "Professional Adhesion Tester for industrial applications."
   },
@@ -412,7 +412,7 @@ export const products: Product[] = [
     "id": "51",
     "name": "Colorimeter 801",
     "category": "Measuring Instruments",
-    "image": "/images/051-colorimeter-801.jpg?v=1790685327610",
+    "image": "/images/051-colorimeter-801.jpg",
     "slug": "colorimeter-801",
     "shortDescription": "Professional Colorimeter 801 for industrial applications."
   },
@@ -420,7 +420,7 @@ export const products: Product[] = [
     "id": "52",
     "name": "Monoblock Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/052-monoblock-vernier.jpg?v=1790685327610",
+    "image": "/images/052-monoblock-vernier.jpg",
     "slug": "monoblock-vernier",
     "shortDescription": "Professional Monoblock Vernier for industrial applications."
   },
@@ -428,7 +428,7 @@ export const products: Product[] = [
     "id": "53",
     "name": "Heavy Duty Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/053-heavy-duty-vernier.jpg?v=1790685327610",
+    "image": "/images/053-heavy-duty-vernier.jpg",
     "slug": "heavy-duty-vernier",
     "shortDescription": "Professional Heavy Duty Vernier for industrial applications."
   },
@@ -436,7 +436,7 @@ export const products: Product[] = [
     "id": "54",
     "name": "Gear Tooth Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/054-gear-tooth-vernier.jpg?v=1790685327610",
+    "image": "/images/054-gear-tooth-vernier.jpg",
     "slug": "gear-tooth-vernier",
     "shortDescription": "Professional Gear Tooth Vernier for industrial applications."
   },
@@ -444,7 +444,7 @@ export const products: Product[] = [
     "id": "55",
     "name": "Digimatic Vernier – HPM",
     "category": "Measuring Instruments",
-    "image": "/images/055-digimatic-vernier-hpm.jpg?v=1790685327610",
+    "image": "/images/055-digimatic-vernier-hpm.jpg",
     "slug": "digimatic-vernier-hpm",
     "shortDescription": "Professional Digimatic Vernier – HPM for industrial applications."
   },
@@ -452,7 +452,7 @@ export const products: Product[] = [
     "id": "56",
     "name": "Digimatic Vernier – DMV01",
     "category": "Measuring Instruments",
-    "image": "/images/056-digimatic-vernier-dmv01.jpg?v=1790685327611",
+    "image": "/images/056-digimatic-vernier-dmv01.jpg",
     "slug": "digimatic-vernier-dmv01",
     "shortDescription": "Professional Digimatic Vernier – DMV01 for industrial applications."
   },
@@ -460,7 +460,7 @@ export const products: Product[] = [
     "id": "57",
     "name": "Digimatic Vernier – DMV02",
     "category": "Measuring Instruments",
-    "image": "/images/057-digimatic-vernier-dmv02.jpg?v=1790685327611",
+    "image": "/images/057-digimatic-vernier-dmv02.jpg",
     "slug": "digimatic-vernier-dmv02",
     "shortDescription": "Professional Digimatic Vernier – DMV02 for industrial applications."
   },
@@ -468,7 +468,7 @@ export const products: Product[] = [
     "id": "58",
     "name": "Digimatic Vernier – Eco",
     "category": "Measuring Instruments",
-    "image": "/images/058-digimatic-vernier-eco.jpg?v=1790685327611",
+    "image": "/images/058-digimatic-vernier-eco.jpg",
     "slug": "digimatic-vernier-eco",
     "shortDescription": "Professional Digimatic Vernier – Eco for industrial applications."
   },
@@ -476,7 +476,7 @@ export const products: Product[] = [
     "id": "59",
     "name": "Waterproof Digimatic Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/059-waterproof-digimatic-vernier.jpg?v=1790685327611",
+    "image": "/images/059-waterproof-digimatic-vernier.jpg",
     "slug": "waterproof-digimatic-vernier",
     "shortDescription": "Professional Waterproof Digimatic Vernier for industrial applications."
   },
@@ -484,7 +484,7 @@ export const products: Product[] = [
     "id": "60",
     "name": "Dial Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/060-dial-vernier.jpg?v=1790685327611",
+    "image": "/images/060-dial-vernier.jpg",
     "slug": "dial-vernier",
     "shortDescription": "Professional Dial Vernier for industrial applications."
   },
@@ -492,7 +492,7 @@ export const products: Product[] = [
     "id": "61",
     "name": "Depth Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/061-depth-vernier.jpg?v=1790685327611",
+    "image": "/images/061-depth-vernier.jpg",
     "slug": "depth-vernier",
     "shortDescription": "Professional Depth Vernier for industrial applications."
   },
@@ -500,7 +500,7 @@ export const products: Product[] = [
     "id": "62",
     "name": "Digimatic Depth Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/062-digimatic-depth-vernier.jpg?v=1790685327612",
+    "image": "/images/062-digimatic-depth-vernier.jpg",
     "slug": "digimatic-depth-vernier",
     "shortDescription": "Professional Digimatic Depth Vernier for industrial applications."
   },
@@ -508,7 +508,7 @@ export const products: Product[] = [
     "id": "63",
     "name": "Digital Inside Grove Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/063-digital-inside-grove-vernier.jpg?v=1790685327612",
+    "image": "/images/063-digital-inside-grove-vernier.jpg",
     "slug": "digital-inside-grove-vernier",
     "shortDescription": "Professional Digital Inside Grove Vernier for industrial applications."
   },
@@ -516,7 +516,7 @@ export const products: Product[] = [
     "id": "64",
     "name": "Special Application Vernier",
     "category": "Measuring Instruments",
-    "image": "/images/064-special-application-vernier.jpg?v=1790685327612",
+    "image": "/images/064-special-application-vernier.jpg",
     "slug": "special-application-vernier",
     "shortDescription": "Professional Special Application Vernier for industrial applications."
   },
@@ -524,7 +524,7 @@ export const products: Product[] = [
     "id": "65",
     "name": "Digimatic Height Gauge – Single Beam",
     "category": "Measuring Instruments",
-    "image": "/images/065-digimatic-height-gauge-single-beam.jpg?v=1790685327612",
+    "image": "/images/065-digimatic-height-gauge-single-beam.jpg",
     "slug": "digimatic-height-gauge-single-beam",
     "shortDescription": "Professional Digimatic Height Gauge – Single Beam for industrial applications."
   },
@@ -532,7 +532,7 @@ export const products: Product[] = [
     "id": "66",
     "name": "Digimatic Height Gauge – Double Beam",
     "category": "Measuring Instruments",
-    "image": "/images/066-digimatic-height-gauge-double-beam.jpg?v=1790685327612",
+    "image": "/images/066-digimatic-height-gauge-double-beam.jpg",
     "slug": "digimatic-height-gauge-double-beam",
     "shortDescription": "Professional Digimatic Height Gauge – Double Beam for industrial applications."
   },
@@ -540,7 +540,7 @@ export const products: Product[] = [
     "id": "67",
     "name": "Vernier Height Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/067-vernier-height-gauge.jpg?v=1790685327612",
+    "image": "/images/067-vernier-height-gauge.jpg",
     "slug": "vernier-height-gauge",
     "shortDescription": "Professional Vernier Height Gauge for industrial applications."
   },
@@ -548,7 +548,7 @@ export const products: Product[] = [
     "id": "68",
     "name": "Digit Dial Height Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/068-digit-dial-height-gauge.jpg?v=1790685327613",
+    "image": "/images/068-digit-dial-height-gauge.jpg",
     "slug": "digit-dial-height-gauge",
     "shortDescription": "Professional Digit Dial Height Gauge for industrial applications."
   },
@@ -556,7 +556,7 @@ export const products: Product[] = [
     "id": "69",
     "name": "Outside Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/069-outside-micrometer.jpg?v=1790685327613",
+    "image": "/images/069-outside-micrometer.jpg",
     "slug": "outside-micrometer",
     "shortDescription": "Professional Outside Micrometer for industrial applications."
   },
@@ -564,7 +564,7 @@ export const products: Product[] = [
     "id": "70",
     "name": "Outside Micrometer (Engraved)",
     "category": "Measuring Instruments",
-    "image": "/images/070-outside-micrometer-engraved.jpg?v=1790685327613",
+    "image": "/images/070-outside-micrometer-engraved.jpg",
     "slug": "outside-micrometer-engraved",
     "shortDescription": "Professional Outside Micrometer (Engraved) for industrial applications."
   },
@@ -572,7 +572,7 @@ export const products: Product[] = [
     "id": "71",
     "name": "Adjustable Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/071-adjustable-micrometer.jpg?v=1790685327613",
+    "image": "/images/071-adjustable-micrometer.jpg",
     "slug": "adjustable-micrometer",
     "shortDescription": "Professional Adjustable Micrometer for industrial applications."
   },
@@ -580,7 +580,7 @@ export const products: Product[] = [
     "id": "72",
     "name": "Digit Counter Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/072-digit-counter-micrometer.jpg?v=1790685327613",
+    "image": "/images/072-digit-counter-micrometer.jpg",
     "slug": "digit-counter-micrometer",
     "shortDescription": "Professional Digit Counter Micrometer for industrial applications."
   },
@@ -588,7 +588,7 @@ export const products: Product[] = [
     "id": "73",
     "name": "Digimatic Micrometer (Eco)",
     "category": "Measuring Instruments",
-    "image": "/images/073-digimatic-micrometer-eco.jpg?v=1790685327613",
+    "image": "/images/073-digimatic-micrometer-eco.jpg",
     "slug": "digimatic-micrometer-eco",
     "shortDescription": "Professional Digimatic Micrometer (Eco) for industrial applications."
   },
@@ -596,7 +596,7 @@ export const products: Product[] = [
     "id": "74",
     "name": "Digimatic Micrometer (IP-54)",
     "category": "Measuring Instruments",
-    "image": "/images/074-digimatic-micrometer-ip-54.jpg?v=1790685327613",
+    "image": "/images/074-digimatic-micrometer-ip-54.jpg",
     "slug": "digimatic-micrometer-ip-54",
     "shortDescription": "Professional Digimatic Micrometer (IP-54) for industrial applications."
   },
@@ -604,7 +604,7 @@ export const products: Product[] = [
     "id": "75",
     "name": "Digimatic Micrometer (IP-65)",
     "category": "Measuring Instruments",
-    "image": "/images/075-digimatic-micrometer-ip-65.jpg?v=1790685327613",
+    "image": "/images/075-digimatic-micrometer-ip-65.jpg",
     "slug": "digimatic-micrometer-ip-65",
     "shortDescription": "Professional Digimatic Micrometer (IP-65) for industrial applications."
   },
@@ -612,7 +612,7 @@ export const products: Product[] = [
     "id": "76",
     "name": "Digimatic Micrometer (M Type)",
     "category": "Measuring Instruments",
-    "image": "/images/076-digimatic-micrometer-m-type.jpg?v=1790685327613",
+    "image": "/images/076-digimatic-micrometer-m-type.jpg",
     "slug": "digimatic-micrometer-m-type",
     "shortDescription": "Professional Digimatic Micrometer (M Type) for industrial applications."
   },
@@ -620,7 +620,7 @@ export const products: Product[] = [
     "id": "77",
     "name": "Snap Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/077-snap-micrometer.jpg?v=1790685327614",
+    "image": "/images/077-snap-micrometer.jpg",
     "slug": "snap-micrometer",
     "shortDescription": "Professional Snap Micrometer for industrial applications."
   },
@@ -628,7 +628,7 @@ export const products: Product[] = [
     "id": "78",
     "name": "Ball Point Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/078-ball-point-micrometer.jpg?v=1790685327614",
+    "image": "/images/078-ball-point-micrometer.jpg",
     "slug": "ball-point-micrometer",
     "shortDescription": "Professional Ball Point Micrometer for industrial applications."
   },
@@ -636,7 +636,7 @@ export const products: Product[] = [
     "id": "79",
     "name": "Digimatic Depth Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/079-digimatic-depth-micrometer.jpg?v=1790685327614",
+    "image": "/images/079-digimatic-depth-micrometer.jpg",
     "slug": "digimatic-depth-micrometer",
     "shortDescription": "Professional Digimatic Depth Micrometer for industrial applications."
   },
@@ -644,7 +644,7 @@ export const products: Product[] = [
     "id": "80",
     "name": "Blade Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/080-blade-micrometer.jpg?v=1790685327614",
+    "image": "/images/080-blade-micrometer.jpg",
     "slug": "blade-micrometer",
     "shortDescription": "Professional Blade Micrometer for industrial applications."
   },
@@ -652,7 +652,7 @@ export const products: Product[] = [
     "id": "81",
     "name": "Depth Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/081-depth-micrometer.jpg?v=1790685327614",
+    "image": "/images/081-depth-micrometer.jpg",
     "slug": "depth-micrometer",
     "shortDescription": "Professional Depth Micrometer for industrial applications."
   },
@@ -660,7 +660,7 @@ export const products: Product[] = [
     "id": "82",
     "name": "Pointed Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/082-pointed-micrometer.jpg?v=1790685327614",
+    "image": "/images/082-pointed-micrometer.jpg",
     "slug": "pointed-micrometer",
     "shortDescription": "Professional Pointed Micrometer for industrial applications."
   },
@@ -668,7 +668,7 @@ export const products: Product[] = [
     "id": "83",
     "name": "Indicating Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/083-indicating-micrometer.jpg?v=1790685327615",
+    "image": "/images/083-indicating-micrometer.jpg",
     "slug": "indicating-micrometer",
     "shortDescription": "Professional Indicating Micrometer for industrial applications."
   },
@@ -676,7 +676,7 @@ export const products: Product[] = [
     "id": "84",
     "name": "Micrometer Head",
     "category": "Measuring Instruments",
-    "image": "/images/084-micrometer-head.jpg?v=1790685327615",
+    "image": "/images/084-micrometer-head.jpg",
     "slug": "micrometer-head",
     "shortDescription": "Professional Micrometer Head for industrial applications."
   },
@@ -684,7 +684,7 @@ export const products: Product[] = [
     "id": "85",
     "name": "Inside Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/085-inside-micrometer.jpg?v=1790685327615",
+    "image": "/images/085-inside-micrometer.jpg",
     "slug": "inside-micrometer",
     "shortDescription": "Professional Inside Micrometer for industrial applications."
   },
@@ -692,7 +692,7 @@ export const products: Product[] = [
     "id": "86",
     "name": "Digimatic Inside Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/086-digimatic-inside-micrometer.jpg?v=1790685327615",
+    "image": "/images/086-digimatic-inside-micrometer.jpg",
     "slug": "digimatic-inside-micrometer",
     "shortDescription": "Professional Digimatic Inside Micrometer for industrial applications."
   },
@@ -700,7 +700,7 @@ export const products: Product[] = [
     "id": "87",
     "name": "Tublor Inside Micrometer",
     "category": "Measuring Instruments",
-    "image": "/images/087-tublor-inside-micrometer.jpg?v=1790685327615",
+    "image": "/images/087-tublor-inside-micrometer.jpg",
     "slug": "tublor-inside-micrometer",
     "shortDescription": "Professional Tublor Inside Micrometer for industrial applications."
   },
@@ -708,7 +708,7 @@ export const products: Product[] = [
     "id": "88",
     "name": "Dial Indicator",
     "category": "Measuring Instruments",
-    "image": "/images/088-dial-indicator.jpg?v=1790685327615",
+    "image": "/images/088-dial-indicator.jpg",
     "slug": "dial-indicator",
     "shortDescription": "Professional Dial Indicator for industrial applications."
   },
@@ -716,7 +716,7 @@ export const products: Product[] = [
     "id": "89",
     "name": "Digimatic Indicator (R)",
     "category": "Measuring Instruments",
-    "image": "/images/089-digimatic-indicator-r.jpg?v=1790685327615",
+    "image": "/images/089-digimatic-indicator-r.jpg",
     "slug": "digimatic-indicator-r",
     "shortDescription": "Professional Digimatic Indicator (R) for industrial applications."
   },
@@ -724,7 +724,7 @@ export const products: Product[] = [
     "id": "90",
     "name": "Digimatic Indicator (HP)",
     "category": "Measuring Instruments",
-    "image": "/images/090-digimatic-indicator-hp.jpg?v=1790685327615",
+    "image": "/images/090-digimatic-indicator-hp.jpg",
     "slug": "digimatic-indicator-hp",
     "shortDescription": "Professional Digimatic Indicator (HP) for industrial applications."
   },
@@ -732,7 +732,7 @@ export const products: Product[] = [
     "id": "91",
     "name": "Dial Test Indicator",
     "category": "Measuring Instruments",
-    "image": "/images/091-dial-test-indicator.jpg?v=1790685327615",
+    "image": "/images/091-dial-test-indicator.jpg",
     "slug": "dial-test-indicator",
     "shortDescription": "Professional Dial Test Indicator for industrial applications."
   },
@@ -740,7 +740,7 @@ export const products: Product[] = [
     "id": "92",
     "name": "Pipe Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/092-pipe-caliper.jpg?v=1790685327615",
+    "image": "/images/092-pipe-caliper.jpg",
     "slug": "pipe-caliper",
     "shortDescription": "Professional Pipe Caliper for industrial applications."
   },
@@ -748,7 +748,7 @@ export const products: Product[] = [
     "id": "93",
     "name": "Digimatic Pipe Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/093-digimatic-pipe-caliper.jpg?v=1790685327615",
+    "image": "/images/093-digimatic-pipe-caliper.jpg",
     "slug": "digimatic-pipe-caliper",
     "shortDescription": "Professional Digimatic Pipe Caliper for industrial applications."
   },
@@ -756,7 +756,7 @@ export const products: Product[] = [
     "id": "94",
     "name": "Dial Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/094-dial-thickness-gauge.jpg?v=1790685327616",
+    "image": "/images/094-dial-thickness-gauge.jpg",
     "slug": "dial-thickness-gauge",
     "shortDescription": "Professional Dial Thickness Gauge for industrial applications."
   },
@@ -764,7 +764,7 @@ export const products: Product[] = [
     "id": "95",
     "name": "Stand Type Dial Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/095-stand-type-dial-thickness-gauge.jpg?v=1790685327616",
+    "image": "/images/095-stand-type-dial-thickness-gauge.jpg",
     "slug": "stand-type-dial-thickness-gauge",
     "shortDescription": "Professional Stand Type Dial Thickness Gauge for industrial applications."
   },
@@ -772,7 +772,7 @@ export const products: Product[] = [
     "id": "96",
     "name": "Digimatic Thickness Gauge (.01 & .001 mm)",
     "category": "Measuring Instruments",
-    "image": "/images/096-digimatic-thickness-gauge-01-001-mm.jpg?v=1790685327616",
+    "image": "/images/096-digimatic-thickness-gauge-01-001-mm.jpg",
     "slug": "digimatic-thickness-gauge-01-001-mm",
     "shortDescription": "Professional Digimatic Thickness Gauge (.01 & .001 mm) for industrial applications."
   },
@@ -780,7 +780,7 @@ export const products: Product[] = [
     "id": "97",
     "name": "Micron Dial Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/097-micron-dial-thickness-gauge.jpg?v=1790685327616",
+    "image": "/images/097-micron-dial-thickness-gauge.jpg",
     "slug": "micron-dial-thickness-gauge",
     "shortDescription": "Professional Micron Dial Thickness Gauge for industrial applications."
   },
@@ -788,7 +788,7 @@ export const products: Product[] = [
     "id": "98",
     "name": "Pocket Thickness Gauge (Metal)",
     "category": "Measuring Instruments",
-    "image": "/images/098-pocket-thickness-gauge-metal.jpg?v=1790685327616",
+    "image": "/images/098-pocket-thickness-gauge-metal.jpg",
     "slug": "pocket-thickness-gauge-metal",
     "shortDescription": "Professional Pocket Thickness Gauge (Metal) for industrial applications."
   },
@@ -796,7 +796,7 @@ export const products: Product[] = [
     "id": "99",
     "name": "Pocket Thickness Gauge (Plastic)",
     "category": "Measuring Instruments",
-    "image": "/images/099-pocket-thickness-gauge-plastic.jpg?v=1790685327616",
+    "image": "/images/099-pocket-thickness-gauge-plastic.jpg",
     "slug": "pocket-thickness-gauge-plastic",
     "shortDescription": "Professional Pocket Thickness Gauge (Plastic) for industrial applications."
   },
@@ -804,7 +804,7 @@ export const products: Product[] = [
     "id": "100",
     "name": "Long Arm Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/100-long-arm-thickness-gauge.jpg?v=1790685327616",
+    "image": "/images/100-long-arm-thickness-gauge.jpg",
     "slug": "long-arm-thickness-gauge",
     "shortDescription": "Professional Long Arm Thickness Gauge for industrial applications."
   },
@@ -812,7 +812,7 @@ export const products: Product[] = [
     "id": "101",
     "name": "Digimatic Gem Thickness Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/101-digimatic-gem-thickness-gauge.jpg?v=1790685327616",
+    "image": "/images/101-digimatic-gem-thickness-gauge.jpg",
     "slug": "digimatic-gem-thickness-gauge",
     "shortDescription": "Professional Digimatic Gem Thickness Gauge for industrial applications."
   },
@@ -820,7 +820,7 @@ export const products: Product[] = [
     "id": "102",
     "name": "Tyre Depth Gauge (Metal)",
     "category": "Measuring Instruments",
-    "image": "/images/102-tyre-depth-gauge-metal.jpg?v=1790685327616",
+    "image": "/images/102-tyre-depth-gauge-metal.jpg",
     "slug": "tyre-depth-gauge-metal",
     "shortDescription": "Professional Tyre Depth Gauge (Metal) for industrial applications."
   },
@@ -828,7 +828,7 @@ export const products: Product[] = [
     "id": "103",
     "name": "Tyre Depth Gauge (Plastic)",
     "category": "Measuring Instruments",
-    "image": "/images/103-tyre-depth-gauge-plastic.jpg?v=1790685327616",
+    "image": "/images/103-tyre-depth-gauge-plastic.jpg",
     "slug": "tyre-depth-gauge-plastic",
     "shortDescription": "Professional Tyre Depth Gauge (Plastic) for industrial applications."
   },
@@ -836,7 +836,7 @@ export const products: Product[] = [
     "id": "104",
     "name": "Dial Depth Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/104-dial-depth-gauge.jpg?v=1790685327616",
+    "image": "/images/104-dial-depth-gauge.jpg",
     "slug": "dial-depth-gauge",
     "shortDescription": "Professional Dial Depth Gauge for industrial applications."
   },
@@ -844,7 +844,7 @@ export const products: Product[] = [
     "id": "105",
     "name": "Digital Divider",
     "category": "Measuring Instruments",
-    "image": "/images/105-digital-divider.jpg?v=1790685327617",
+    "image": "/images/105-digital-divider.jpg",
     "slug": "digital-divider",
     "shortDescription": "Professional Digital Divider for industrial applications."
   },
@@ -852,7 +852,7 @@ export const products: Product[] = [
     "id": "106",
     "name": "Digital Inside Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/106-digital-inside-caliper.jpg?v=1790685327617",
+    "image": "/images/106-digital-inside-caliper.jpg",
     "slug": "digital-inside-caliper",
     "shortDescription": "Professional Digital Inside Caliper for industrial applications."
   },
@@ -860,7 +860,7 @@ export const products: Product[] = [
     "id": "107",
     "name": "Digital Outside Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/107-digital-outside-caliper.jpg?v=1790685327617",
+    "image": "/images/107-digital-outside-caliper.jpg",
     "slug": "digital-outside-caliper",
     "shortDescription": "Professional Digital Outside Caliper for industrial applications."
   },
@@ -868,7 +868,7 @@ export const products: Product[] = [
     "id": "108",
     "name": "Pistol Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/108-pistol-caliper.jpg?v=1790685327617",
+    "image": "/images/108-pistol-caliper.jpg",
     "slug": "pistol-caliper",
     "shortDescription": "Professional Pistol Caliper for industrial applications."
   },
@@ -876,7 +876,7 @@ export const products: Product[] = [
     "id": "109",
     "name": "Combination Set",
     "category": "Measuring Instruments",
-    "image": "/images/109-combination-set.jpg?v=1790685327617",
+    "image": "/images/109-combination-set.jpg",
     "slug": "combination-set",
     "shortDescription": "Professional Combination Set for industrial applications."
   },
@@ -884,7 +884,7 @@ export const products: Product[] = [
     "id": "110",
     "name": "Bevel Protractor",
     "category": "Measuring Instruments",
-    "image": "/images/110-bevel-protractor.jpg?v=1790685327617",
+    "image": "/images/110-bevel-protractor.jpg",
     "slug": "bevel-protractor",
     "shortDescription": "Professional Bevel Protractor for industrial applications."
   },
@@ -892,7 +892,7 @@ export const products: Product[] = [
     "id": "111",
     "name": "Digital Bevel Protractor",
     "category": "Measuring Instruments",
-    "image": "/images/111-digital-bevel-protractor-v2.jpeg?v=1790685327617",
+    "image": "/images/111-digital-bevel-protractor-v2.jpeg",
     "slug": "digital-bevel-protractor",
     "shortDescription": "Professional Digital Bevel Protractor for industrial applications."
   },
@@ -900,7 +900,7 @@ export const products: Product[] = [
     "id": "112",
     "name": "Slip Gauge Block",
     "category": "Measuring Instruments",
-    "image": "/images/112-slip-gauge-block.jpg?v=1790685327618",
+    "image": "/images/112-slip-gauge-block.jpg",
     "slug": "slip-gauge-block",
     "shortDescription": "Professional Slip Gauge Block for industrial applications."
   },
@@ -908,7 +908,7 @@ export const products: Product[] = [
     "id": "113",
     "name": "Dial Inclinometer",
     "category": "Measuring Instruments",
-    "image": "/images/113-dial-inclinometer.jpg?v=1790685327618",
+    "image": "/images/113-dial-inclinometer.jpg",
     "slug": "dial-inclinometer",
     "shortDescription": "Professional Dial Inclinometer for industrial applications."
   },
@@ -916,7 +916,7 @@ export const products: Product[] = [
     "id": "114",
     "name": "Box Inclinometer",
     "category": "Measuring Instruments",
-    "image": "/images/114-box-inclinometer.jpg?v=1790685327618",
+    "image": "/images/114-box-inclinometer.jpg",
     "slug": "box-inclinometer",
     "shortDescription": "Professional Box Inclinometer for industrial applications."
   },
@@ -924,7 +924,7 @@ export const products: Product[] = [
     "id": "115",
     "name": "Inclinometer with Laser",
     "category": "Measuring Instruments",
-    "image": "/images/115-inclinometer-with-laser.jpg?v=1790685327618",
+    "image": "/images/115-inclinometer-with-laser.jpg",
     "slug": "inclinometer-with-laser",
     "shortDescription": "Professional Inclinometer with Laser for industrial applications."
   },
@@ -932,7 +932,7 @@ export const products: Product[] = [
     "id": "116",
     "name": "Inclinometer IP-54",
     "category": "Measuring Instruments",
-    "image": "/images/116-inclinometer-ip-54.jpg?v=1790685327618",
+    "image": "/images/116-inclinometer-ip-54.jpg",
     "slug": "inclinometer-ip-54",
     "shortDescription": "Professional Inclinometer IP-54 for industrial applications."
   },
@@ -940,7 +940,7 @@ export const products: Product[] = [
     "id": "117",
     "name": "Pin Gauge Box",
     "category": "Measuring Instruments",
-    "image": "/images/117-pin-gauge-box.jpg?v=1790685327618",
+    "image": "/images/117-pin-gauge-box.jpg",
     "slug": "pin-gauge-box",
     "shortDescription": "Professional Pin Gauge Box for industrial applications."
   },
@@ -948,7 +948,7 @@ export const products: Product[] = [
     "id": "118",
     "name": "Dial Bore Gauge",
     "category": "Measuring Instruments",
-    "image": "/images/118-dial-bore-gauge.jpg?v=1790685327618",
+    "image": "/images/118-dial-bore-gauge.jpg",
     "slug": "dial-bore-gauge",
     "shortDescription": "Professional Dial Bore Gauge for industrial applications."
   },
@@ -956,7 +956,7 @@ export const products: Product[] = [
     "id": "119",
     "name": "Inside Dial Grove Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/119-inside-dial-grove-caliper.jpg?v=1790685327618",
+    "image": "/images/119-inside-dial-grove-caliper.jpg",
     "slug": "inside-dial-grove-caliper",
     "shortDescription": "Professional Inside Dial Grove Caliper for industrial applications."
   },
@@ -964,7 +964,7 @@ export const products: Product[] = [
     "id": "120",
     "name": "Inside Digimatic Grove Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/120-inside-digimatic-grove-caliper.jpg?v=1790685327618",
+    "image": "/images/120-inside-digimatic-grove-caliper.jpg",
     "slug": "inside-digimatic-grove-caliper",
     "shortDescription": "Professional Inside Digimatic Grove Caliper for industrial applications."
   },
@@ -972,7 +972,7 @@ export const products: Product[] = [
     "id": "121",
     "name": "Block Level",
     "category": "Measuring Instruments",
-    "image": "/images/121-block-level.jpg?v=1790685327619",
+    "image": "/images/121-block-level.jpg",
     "slug": "block-level",
     "shortDescription": "Professional Block Level for industrial applications."
   },
@@ -980,7 +980,7 @@ export const products: Product[] = [
     "id": "122",
     "name": "Square Level",
     "category": "Measuring Instruments",
-    "image": "/images/122-square-level.jpg?v=1790685327619",
+    "image": "/images/122-square-level.jpg",
     "slug": "square-level",
     "shortDescription": "Professional Square Level for industrial applications."
   },
@@ -988,7 +988,7 @@ export const products: Product[] = [
     "id": "123",
     "name": "Magnetic Stand – Non Fine",
     "category": "Measuring Instruments",
-    "image": "/images/123-magnetic-stand-non-fine.jpg?v=1790685327619",
+    "image": "/images/123-magnetic-stand-non-fine.jpg",
     "slug": "magnetic-stand-non-fine",
     "shortDescription": "Professional Magnetic Stand – Non Fine for industrial applications."
   },
@@ -996,7 +996,7 @@ export const products: Product[] = [
     "id": "124",
     "name": "Magnetic Stand – Fine",
     "category": "Measuring Instruments",
-    "image": "/images/124-magnetic-stand-fine.jpg?v=1790685327619",
+    "image": "/images/124-magnetic-stand-fine.jpg",
     "slug": "magnetic-stand-fine",
     "shortDescription": "Professional Magnetic Stand – Fine for industrial applications."
   },
@@ -1004,7 +1004,7 @@ export const products: Product[] = [
     "id": "125",
     "name": "Flexible Magnetic Stand",
     "category": "Measuring Instruments",
-    "image": "/images/125-flexible-magnetic-stand.jpg?v=1790685327619",
+    "image": "/images/125-flexible-magnetic-stand.jpg",
     "slug": "flexible-magnetic-stand",
     "shortDescription": "Professional Flexible Magnetic Stand for industrial applications."
   },
@@ -1012,7 +1012,7 @@ export const products: Product[] = [
     "id": "126",
     "name": "Heavy Duty Magnet Stand",
     "category": "Measuring Instruments",
-    "image": "/images/126-heavy-duty-magnet-stand.jpg?v=1790685327619",
+    "image": "/images/126-heavy-duty-magnet-stand.jpg",
     "slug": "heavy-duty-magnet-stand",
     "shortDescription": "Professional Heavy Duty Magnet Stand for industrial applications."
   },
@@ -1020,7 +1020,7 @@ export const products: Product[] = [
     "id": "127",
     "name": "Comparator Stand",
     "category": "Measuring Instruments",
-    "image": "/images/127-comparator-stand.jpg?v=1790685327619",
+    "image": "/images/127-comparator-stand.jpg",
     "slug": "comparator-stand",
     "shortDescription": "Professional Comparator Stand for industrial applications."
   },
@@ -1028,7 +1028,7 @@ export const products: Product[] = [
     "id": "128",
     "name": "Prism Jaw Caliper",
     "category": "Measuring Instruments",
-    "image": "/images/128-prism-jaw-caliper.jpg?v=1790685327619",
+    "image": "/images/128-prism-jaw-caliper.jpg",
     "slug": "prism-jaw-caliper",
     "shortDescription": "Professional Prism Jaw Caliper for industrial applications."
   },
@@ -1036,7 +1036,7 @@ export const products: Product[] = [
     "id": "129",
     "name": "Distance Meter",
     "category": "Surveying Instruments",
-    "image": "/images/129-distance-meter.jpg?v=1790685327619",
+    "image": "/images/129-distance-meter.jpg",
     "slug": "distance-meter",
     "shortDescription": "Professional Distance Meter for industrial applications."
   },
@@ -1044,7 +1044,7 @@ export const products: Product[] = [
     "id": "130",
     "name": "Range Finder",
     "category": "Surveying Instruments",
-    "image": "/images/130-range-finder.jpg?v=1790685327619",
+    "image": "/images/130-range-finder.jpg",
     "slug": "range-finder",
     "shortDescription": "Professional Range Finder for industrial applications."
   },
@@ -1052,7 +1052,7 @@ export const products: Product[] = [
     "id": "131",
     "name": "Auto Level",
     "category": "Surveying Instruments",
-    "image": "/images/131-auto-level-v2.jpeg?v=1790685327619",
+    "image": "/images/131-auto-level-v2.jpeg",
     "slug": "auto-level",
     "shortDescription": "Professional Auto Level for industrial applications."
   },
@@ -1060,7 +1060,7 @@ export const products: Product[] = [
     "id": "132",
     "name": "Road Meter",
     "category": "Surveying Instruments",
-    "image": "/images/132-road-meter.jpg?v=1790685327620",
+    "image": "/images/132-road-meter.jpg",
     "slug": "road-meter",
     "shortDescription": "Professional Road Meter for industrial applications."
   },
@@ -1068,7 +1068,7 @@ export const products: Product[] = [
     "id": "133",
     "name": "GPS",
     "category": "Surveying Instruments",
-    "image": "/images/133-gps-v2.jpeg?v=1790685327620",
+    "image": "/images/133-gps-v2.jpeg",
     "slug": "gps",
     "shortDescription": "Professional GPS for industrial applications."
   },
@@ -1076,7 +1076,7 @@ export const products: Product[] = [
     "id": "134",
     "name": "Taper Scale",
     "category": "Welding Gauges",
-    "image": "/images/134-taper-scale.jpg?v=1790685327620",
+    "image": "/images/134-taper-scale.jpg",
     "slug": "taper-scale",
     "shortDescription": "Professional Taper Scale for industrial applications."
   },
@@ -1084,7 +1084,7 @@ export const products: Product[] = [
     "id": "135",
     "name": "Bride Cam Welding Gauge",
     "category": "Welding Gauges",
-    "image": "/images/135-bride-cam-welding-gauge.jpg?v=1790685327620",
+    "image": "/images/135-bride-cam-welding-gauge.jpg",
     "slug": "bride-cam-welding-gauge",
     "shortDescription": "Professional Bride Cam Welding Gauge for industrial applications."
   },
@@ -1092,7 +1092,7 @@ export const products: Product[] = [
     "id": "136",
     "name": "Welding Gauge",
     "category": "Welding Gauges",
-    "image": "/images/136-welding-gauge.jpg?v=1790685327620",
+    "image": "/images/136-welding-gauge.jpg",
     "slug": "welding-gauge",
     "shortDescription": "Professional Welding Gauge for industrial applications."
   },
@@ -1100,7 +1100,7 @@ export const products: Product[] = [
     "id": "137",
     "name": "Leaf Type Welding Gauge",
     "category": "Welding Gauges",
-    "image": "/images/137-leaf-type-welding-gauge-v2.jpeg?v=1790685327620",
+    "image": "/images/137-leaf-type-welding-gauge-v2.jpeg",
     "slug": "leaf-type-welding-gauge",
     "shortDescription": "Professional Leaf Type Welding Gauge for industrial applications."
   },
@@ -1108,7 +1108,7 @@ export const products: Product[] = [
     "id": "138",
     "name": "Welding Gauge (alt. model)",
     "category": "Welding Gauges",
-    "image": "/images/138-welding-gauge-alt-model.jpg?v=1790685327620",
+    "image": "/images/138-welding-gauge-alt-model.jpg",
     "slug": "welding-gauge-alt-model",
     "shortDescription": "Professional Welding Gauge (alt. model) for industrial applications."
   },
@@ -1116,7 +1116,7 @@ export const products: Product[] = [
     "id": "139",
     "name": "Digital Welding Gauge",
     "category": "Welding Gauges",
-    "image": "/images/139-digital-welding-gauge.jpg?v=1790685327620",
+    "image": "/images/139-digital-welding-gauge.jpg",
     "slug": "digital-welding-gauge",
     "shortDescription": "Professional Digital Welding Gauge for industrial applications."
   },
@@ -1124,7 +1124,7 @@ export const products: Product[] = [
     "id": "140",
     "name": "Hi-Low Gauge",
     "category": "Welding Gauges",
-    "image": "/images/140-hi-low-gauge.jpg?v=1790685327620",
+    "image": "/images/140-hi-low-gauge.jpg",
     "slug": "hi-low-gauge",
     "shortDescription": "Professional Hi-Low Gauge for industrial applications."
   },
@@ -1132,7 +1132,7 @@ export const products: Product[] = [
     "id": "141",
     "name": "V-WAC Gauge",
     "category": "Welding Gauges",
-    "image": "/images/141-v-wac-gauge-v2.jpeg?v=1790685327620",
+    "image": "/images/141-v-wac-gauge-v2.jpeg",
     "slug": "v-wac-gauge",
     "shortDescription": "Professional V-WAC Gauge for industrial applications."
   },
@@ -1140,7 +1140,7 @@ export const products: Product[] = [
     "id": "142",
     "name": "Wire Gauge",
     "category": "Welding Gauges",
-    "image": "/images/142-wire-gauge.jpg?v=1790685327620",
+    "image": "/images/142-wire-gauge.jpg",
     "slug": "wire-gauge",
     "shortDescription": "Professional Wire Gauge for industrial applications."
   },
@@ -1148,7 +1148,7 @@ export const products: Product[] = [
     "id": "143",
     "name": "Automatic Welding Gauge",
     "category": "Welding Gauges",
-    "image": "/images/143-automatic-welding-gauge.jpg?v=1790685327620",
+    "image": "/images/143-automatic-welding-gauge.jpg",
     "slug": "automatic-welding-gauge",
     "shortDescription": "Professional Automatic Welding Gauge for industrial applications."
   },
@@ -1156,7 +1156,7 @@ export const products: Product[] = [
     "id": "144",
     "name": "Non Contact Tachometer",
     "category": "Tachometers",
-    "image": "/images/144-non-contact-tachometer.jpg?v=1790685327620",
+    "image": "/images/144-non-contact-tachometer.jpg",
     "slug": "non-contact-tachometer",
     "shortDescription": "Professional Non Contact Tachometer for industrial applications."
   },
@@ -1164,7 +1164,7 @@ export const products: Product[] = [
     "id": "145",
     "name": "Contact Tachometer",
     "category": "Tachometers",
-    "image": "/images/145-contact-tachometer.jpg?v=1790685327620",
+    "image": "/images/145-contact-tachometer.jpg",
     "slug": "contact-tachometer",
     "shortDescription": "Professional Contact Tachometer for industrial applications."
   },
@@ -1172,7 +1172,7 @@ export const products: Product[] = [
     "id": "146",
     "name": "Contact–Non Contact Tachometer",
     "category": "Tachometers",
-    "image": "/images/146-contact-non-contact-tachometer.jpg?v=1790685327621",
+    "image": "/images/146-contact-non-contact-tachometer.jpg",
     "slug": "contact-non-contact-tachometer",
     "shortDescription": "Professional Contact–Non Contact Tachometer for industrial applications."
   },
@@ -1180,7 +1180,7 @@ export const products: Product[] = [
     "id": "147",
     "name": "Engine Tachometer",
     "category": "Tachometers",
-    "image": "/images/147-engine-tachometer-v2.jpeg?v=1790685327621",
+    "image": "/images/147-engine-tachometer-v2.jpeg",
     "slug": "engine-tachometer",
     "shortDescription": "Professional Engine Tachometer for industrial applications."
   },
@@ -1188,7 +1188,7 @@ export const products: Product[] = [
     "id": "148",
     "name": "PWMM-7003",
     "category": "Wood Moisture Meters",
-    "image": "/images/148-pwmm-7003.jpg?v=1790685327621",
+    "image": "/images/148-pwmm-7003.jpg",
     "slug": "pwmm-7003",
     "shortDescription": "Professional PWMM-7003 for industrial applications."
   },
@@ -1196,7 +1196,7 @@ export const products: Product[] = [
     "id": "149",
     "name": "WCMM-7001",
     "category": "Wood Moisture Meters",
-    "image": "/images/149-wcmm-7001.jpg?v=1790685327621",
+    "image": "/images/149-wcmm-7001.jpg",
     "slug": "wcmm-7001",
     "shortDescription": "Professional WCMM-7001 for industrial applications."
   },
@@ -1204,7 +1204,7 @@ export const products: Product[] = [
     "id": "150",
     "name": "Pin & Surface PSSM-7004",
     "category": "Wood Moisture Meters",
-    "image": "/images/150-pin-surface-pssm-7004.jpg?v=1790685327621",
+    "image": "/images/150-pin-surface-pssm-7004.jpg",
     "slug": "pin-surface-pssm-7004",
     "shortDescription": "Professional Pin & Surface PSSM-7004 for industrial applications."
   },
@@ -1212,7 +1212,7 @@ export const products: Product[] = [
     "id": "151",
     "name": "Pin & Deep Surface PDSM-7005",
     "category": "Wood Moisture Meters",
-    "image": "/images/151-pin-deep-surface-pdsm-7005.jpg?v=1790685327621",
+    "image": "/images/151-pin-deep-surface-pdsm-7005.jpg",
     "slug": "pin-deep-surface-pdsm-7005",
     "shortDescription": "Professional Pin & Deep Surface PDSM-7005 for industrial applications."
   },
@@ -1220,7 +1220,7 @@ export const products: Product[] = [
     "id": "152",
     "name": "Protimeter Mini",
     "category": "Wood Moisture Meters",
-    "image": "/images/152-protimeter-mini.jpg?v=1790685327621",
+    "image": "/images/152-protimeter-mini.jpg",
     "slug": "protimeter-mini",
     "shortDescription": "Professional Protimeter Mini for industrial applications."
   },
@@ -1228,7 +1228,7 @@ export const products: Product[] = [
     "id": "153",
     "name": "Protimeter Timber Master",
     "category": "Wood Moisture Meters",
-    "image": "/images/153-protimeter-timber-master.jpg?v=1790685327621",
+    "image": "/images/153-protimeter-timber-master.jpg",
     "slug": "protimeter-timber-master",
     "shortDescription": "Professional Protimeter Timber Master for industrial applications."
   },
@@ -1236,7 +1236,7 @@ export const products: Product[] = [
     "id": "154",
     "name": "Digital Industrial (Moisture)",
     "category": "Wood Moisture Meters",
-    "image": "/images/154-digital-industrial-moisture.jpg?v=1790685327621",
+    "image": "/images/154-digital-industrial-moisture.jpg",
     "slug": "digital-industrial-moisture",
     "shortDescription": "Professional Digital Industrial (Moisture) for industrial applications."
   },
@@ -1244,7 +1244,7 @@ export const products: Product[] = [
     "id": "155",
     "name": "Surface Moisture Meter",
     "category": "Wood Moisture Meters",
-    "image": "/images/155-surface-moisture-meter.jpg?v=1790685327621",
+    "image": "/images/155-surface-moisture-meter.jpg",
     "slug": "surface-moisture-meter",
     "shortDescription": "Professional Surface Moisture Meter for industrial applications."
   },
@@ -1252,7 +1252,7 @@ export const products: Product[] = [
     "id": "156",
     "name": "Digital Wood Moisture Meter",
     "category": "Wood Moisture Meters",
-    "image": "/images/156-digital-wood-moisture-meter.jpg?v=1790685327621",
+    "image": "/images/156-digital-wood-moisture-meter.jpg",
     "slug": "digital-wood-moisture-meter",
     "shortDescription": "Professional Digital Wood Moisture Meter for industrial applications."
   },
@@ -1260,7 +1260,7 @@ export const products: Product[] = [
     "id": "157",
     "name": "Eco Wood Moisture Meter",
     "category": "Wood Moisture Meters",
-    "image": "/images/157-eco-wood-moisture-meter.jpg?v=1790685327622",
+    "image": "/images/157-eco-wood-moisture-meter.jpg",
     "slug": "eco-wood-moisture-meter",
     "shortDescription": "Professional Eco Wood Moisture Meter for industrial applications."
   },
@@ -1268,7 +1268,7 @@ export const products: Product[] = [
     "id": "158",
     "name": "Pinless Moisture Meter",
     "category": "Wood Moisture Meters",
-    "image": "/images/158-pinless-moisture-meter.jpg?v=1790685327622",
+    "image": "/images/158-pinless-moisture-meter.jpg",
     "slug": "pinless-moisture-meter",
     "shortDescription": "Professional Pinless Moisture Meter for industrial applications."
   },
@@ -1276,7 +1276,7 @@ export const products: Product[] = [
     "id": "159",
     "name": "Pin Type Moisture Meter",
     "category": "Wood Moisture Meters",
-    "image": "/images/159-pin-type-moisture-meter-v2.jpeg?v=1790685327622",
+    "image": "/images/159-pin-type-moisture-meter-v2.jpeg",
     "slug": "pin-type-moisture-meter",
     "shortDescription": "Professional Pin Type Moisture Meter for industrial applications."
   },
@@ -1284,7 +1284,7 @@ export const products: Product[] = [
     "id": "160",
     "name": "Vibration Meter – VM333",
     "category": "Testing Instruments",
-    "image": "/images/160-vibration-meter-vm333.jpg?v=1790685327622",
+    "image": "/images/160-vibration-meter-vm333.jpg",
     "slug": "vibration-meter-vm333",
     "shortDescription": "Professional Vibration Meter – VM333 for industrial applications."
   },
@@ -1292,7 +1292,7 @@ export const products: Product[] = [
     "id": "161",
     "name": "Vibration Meter – Eco",
     "category": "Testing Instruments",
-    "image": "/images/161-vibration-meter-eco.jpg?v=1790685327622",
+    "image": "/images/161-vibration-meter-eco.jpg",
     "slug": "vibration-meter-eco",
     "shortDescription": "Professional Vibration Meter – Eco for industrial applications."
   },
@@ -1300,7 +1300,7 @@ export const products: Product[] = [
     "id": "162",
     "name": "Sound Level Meter SLM 8001",
     "category": "Testing Instruments",
-    "image": "/images/162-sound-level-meter-slm-8001.jpg?v=1790685327622",
+    "image": "/images/162-sound-level-meter-slm-8001.jpg",
     "slug": "sound-level-meter-slm-8001",
     "shortDescription": "Professional Sound Level Meter SLM 8001 for industrial applications."
   },
@@ -1308,7 +1308,7 @@ export const products: Product[] = [
     "id": "163",
     "name": "Sound Level Meter SLM 8003",
     "category": "Testing Instruments",
-    "image": "/images/163-sound-level-meter-slm-8003.jpg?v=1790685327622",
+    "image": "/images/163-sound-level-meter-slm-8003.jpg",
     "slug": "sound-level-meter-slm-8003",
     "shortDescription": "Professional Sound Level Meter SLM 8003 for industrial applications."
   },
@@ -1316,7 +1316,7 @@ export const products: Product[] = [
     "id": "164",
     "name": "Sound Level Meter SLM 8006",
     "category": "Testing Instruments",
-    "image": "/images/164-sound-level-meter-slm-8006.jpg?v=1790685327622",
+    "image": "/images/164-sound-level-meter-slm-8006.jpg",
     "slug": "sound-level-meter-slm-8006",
     "shortDescription": "Professional Sound Level Meter SLM 8006 for industrial applications."
   },
@@ -1324,7 +1324,7 @@ export const products: Product[] = [
     "id": "165",
     "name": "Digital Psycho Meter",
     "category": "Testing Instruments",
-    "image": "/images/165-digital-psycho-meter.jpg?v=1790685327622",
+    "image": "/images/165-digital-psycho-meter.jpg",
     "slug": "digital-psycho-meter",
     "shortDescription": "Professional Digital Psycho Meter for industrial applications."
   },
@@ -1332,7 +1332,7 @@ export const products: Product[] = [
     "id": "166",
     "name": "Grain Moisture Meter 8 in 1",
     "category": "Testing Instruments",
-    "image": "/images/166-grain-moisture-meter-8-in-1-v2.jpeg?v=1790685327622",
+    "image": "/images/166-grain-moisture-meter-8-in-1-v2.jpeg",
     "slug": "grain-moisture-meter-8-in-1",
     "shortDescription": "Professional Grain Moisture Meter 8 in 1 for industrial applications."
   },
@@ -1340,7 +1340,7 @@ export const products: Product[] = [
     "id": "167",
     "name": "Grain Moisture Meter Mini",
     "category": "Testing Instruments",
-    "image": "/images/167-grain-moisture-meter-mini.jpg?v=1790685327622",
+    "image": "/images/167-grain-moisture-meter-mini.jpg",
     "slug": "grain-moisture-meter-mini",
     "shortDescription": "Professional Grain Moisture Meter Mini for industrial applications."
   },
@@ -1348,7 +1348,7 @@ export const products: Product[] = [
     "id": "168",
     "name": "Jute Moisture Meter",
     "category": "Testing Instruments",
-    "image": "/images/168-jute-moisture-meter.jpg?v=1790685327622",
+    "image": "/images/168-jute-moisture-meter.jpg",
     "slug": "jute-moisture-meter",
     "shortDescription": "Professional Jute Moisture Meter for industrial applications."
   },
@@ -1356,7 +1356,7 @@ export const products: Product[] = [
     "id": "169",
     "name": "Fabric Moisture Meter",
     "category": "Testing Instruments",
-    "image": "/images/169-fabric-moisture-meter-v2.jpeg?v=1790685327623",
+    "image": "/images/169-fabric-moisture-meter-v2.jpeg",
     "slug": "fabric-moisture-meter",
     "shortDescription": "Professional Fabric Moisture Meter for industrial applications."
   },
@@ -1364,7 +1364,7 @@ export const products: Product[] = [
     "id": "170",
     "name": "Plaster Moisture Meter",
     "category": "Testing Instruments",
-    "image": "/images/170-plaster-moisture-meter.jpg?v=1790685327623",
+    "image": "/images/170-plaster-moisture-meter.jpg",
     "slug": "plaster-moisture-meter",
     "shortDescription": "Professional Plaster Moisture Meter for industrial applications."
   },
@@ -1372,7 +1372,7 @@ export const products: Product[] = [
     "id": "171",
     "name": "Leather Moisture Meter",
     "category": "Testing Instruments",
-    "image": "/images/171-leather-moisture-meter.jpg?v=1790685327623",
+    "image": "/images/171-leather-moisture-meter.jpg",
     "slug": "leather-moisture-meter",
     "shortDescription": "Professional Leather Moisture Meter for industrial applications."
   },
@@ -1380,7 +1380,7 @@ export const products: Product[] = [
     "id": "172",
     "name": "Paper Moisture Meter – Digital",
     "category": "Testing Instruments",
-    "image": "/images/172-paper-moisture-meter-digital.jpg?v=1790685327623",
+    "image": "/images/172-paper-moisture-meter-digital.jpg",
     "slug": "paper-moisture-meter-digital",
     "shortDescription": "Professional Paper Moisture Meter – Digital for industrial applications."
   },
@@ -1388,7 +1388,7 @@ export const products: Product[] = [
     "id": "173",
     "name": "Paper Moisture Meter – Surface Type Pinless",
     "category": "Testing Instruments",
-    "image": "/images/173-paper-moisture-meter-surface-type-pinless.jpg?v=1790685327623",
+    "image": "/images/173-paper-moisture-meter-surface-type-pinless.jpg",
     "slug": "paper-moisture-meter-surface-type-pinless",
     "shortDescription": "Professional Paper Moisture Meter – Surface Type Pinless for industrial applications."
   },
@@ -1396,7 +1396,7 @@ export const products: Product[] = [
     "id": "174",
     "name": "Lux Meter LX 801",
     "category": "Testing Instruments",
-    "image": "/images/174-lux-meter-lx-801.jpg?v=1790685327623",
+    "image": "/images/174-lux-meter-lx-801.jpg",
     "slug": "lux-meter-lx-801",
     "shortDescription": "Professional Lux Meter LX 801 for industrial applications."
   },
@@ -1404,7 +1404,7 @@ export const products: Product[] = [
     "id": "175",
     "name": "Lux Meter LX 804",
     "category": "Testing Instruments",
-    "image": "/images/175-lux-meter-lx-804.jpg?v=1790685327623",
+    "image": "/images/175-lux-meter-lx-804.jpg",
     "slug": "lux-meter-lx-804",
     "shortDescription": "Professional Lux Meter LX 804 for industrial applications."
   },
@@ -1412,7 +1412,7 @@ export const products: Product[] = [
     "id": "176",
     "name": "Lux Meter LX 803 Industrial",
     "category": "Testing Instruments",
-    "image": "/images/176-lux-meter-lx-803-industrial.jpg?v=1790685327624",
+    "image": "/images/176-lux-meter-lx-803-industrial.jpg",
     "slug": "lux-meter-lx-803-industrial",
     "shortDescription": "Professional Lux Meter LX 803 Industrial for industrial applications."
   },
@@ -1420,7 +1420,7 @@ export const products: Product[] = [
     "id": "177",
     "name": "Lux Meter LX 1010 Eco",
     "category": "Testing Instruments",
-    "image": "/images/177-lux-meter-lx-1010-eco.jpg?v=1790685327624",
+    "image": "/images/177-lux-meter-lx-1010-eco.jpg",
     "slug": "lux-meter-lx-1010-eco",
     "shortDescription": "Professional Lux Meter LX 1010 Eco for industrial applications."
   },
@@ -1428,7 +1428,7 @@ export const products: Product[] = [
     "id": "178",
     "name": "Anemometer AM802",
     "category": "Testing Instruments",
-    "image": "/images/178-anemometer-am802.jpg?v=1790685327624",
+    "image": "/images/178-anemometer-am802.jpg",
     "slug": "anemometer-am802",
     "shortDescription": "Professional Anemometer AM802 for industrial applications."
   },
@@ -1436,7 +1436,7 @@ export const products: Product[] = [
     "id": "179",
     "name": "Anemometer AM4201 MH",
     "category": "Testing Instruments",
-    "image": "/images/179-anemometer-am4201-mh.jpg?v=1790685327624",
+    "image": "/images/179-anemometer-am4201-mh.jpg",
     "slug": "anemometer-am4201-mh",
     "shortDescription": "Professional Anemometer AM4201 MH for industrial applications."
   },
@@ -1444,7 +1444,7 @@ export const products: Product[] = [
     "id": "180",
     "name": "Anemometer AM4202",
     "category": "Testing Instruments",
-    "image": "/images/180-anemometer-am4202.jpg?v=1790685327624",
+    "image": "/images/180-anemometer-am4202.jpg",
     "slug": "anemometer-am4202",
     "shortDescription": "Professional Anemometer AM4202 for industrial applications."
   },
@@ -1452,7 +1452,7 @@ export const products: Product[] = [
     "id": "181",
     "name": "Anemometer CFM",
     "category": "Testing Instruments",
-    "image": "/images/181-anemometer-cfm.jpg?v=1790685327624",
+    "image": "/images/181-anemometer-cfm.jpg",
     "slug": "anemometer-cfm",
     "shortDescription": "Professional Anemometer CFM for industrial applications."
   },
@@ -1460,7 +1460,7 @@ export const products: Product[] = [
     "id": "182",
     "name": "Anemometer Hot-Wire",
     "category": "Testing Instruments",
-    "image": "/images/182-anemometer-hot-wire.jpg?v=1790685327624",
+    "image": "/images/182-anemometer-hot-wire.jpg",
     "slug": "anemometer-hot-wire",
     "shortDescription": "Professional Anemometer Hot-Wire for industrial applications."
   },
@@ -1468,7 +1468,7 @@ export const products: Product[] = [
     "id": "183",
     "name": "Anemometer Digital Comm.",
     "category": "Testing Instruments",
-    "image": "/images/183-anemometer-digital-comm.jpg?v=1790685327624",
+    "image": "/images/183-anemometer-digital-comm.jpg",
     "slug": "anemometer-digital-comm",
     "shortDescription": "Professional Anemometer Digital Comm. for industrial applications."
   },
@@ -1476,7 +1476,7 @@ export const products: Product[] = [
     "id": "184",
     "name": "Air Quality Meter AQPM 801",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/184-air-quality-meter-aqpm-801.jpg?v=1790685327624",
+    "image": "/images/184-air-quality-meter-aqpm-801.jpg",
     "slug": "air-quality-meter-aqpm-801",
     "shortDescription": "Professional Air Quality Meter AQPM 801 for industrial applications."
   },
@@ -1484,7 +1484,7 @@ export const products: Product[] = [
     "id": "185",
     "name": "Air Quality Meter AQPM 803",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/185-air-quality-meter-aqpm-803.jpg?v=1790685327624",
+    "image": "/images/185-air-quality-meter-aqpm-803.jpg",
     "slug": "air-quality-meter-aqpm-803",
     "shortDescription": "Professional Air Quality Meter AQPM 803 for industrial applications."
   },
@@ -1492,7 +1492,7 @@ export const products: Product[] = [
     "id": "186",
     "name": "CO2 Gas Detector",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/186-co2-gas-detector.jpg?v=1790685327624",
+    "image": "/images/186-co2-gas-detector.jpg",
     "slug": "co2-gas-detector",
     "shortDescription": "Professional CO2 Gas Detector for industrial applications."
   },
@@ -1500,7 +1500,7 @@ export const products: Product[] = [
     "id": "187",
     "name": "Carbon Monoxide Meter",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/187-carbon-monoxide-meter.jpg?v=1790685327625",
+    "image": "/images/187-carbon-monoxide-meter.jpg",
     "slug": "carbon-monoxide-meter",
     "shortDescription": "Professional Carbon Monoxide Meter for industrial applications."
   },
@@ -1508,7 +1508,7 @@ export const products: Product[] = [
     "id": "188",
     "name": "NH4, H2S, H2, O2 Gas Detector",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/188-nh4-h2s-h2-o2-gas-detector.jpg?v=1790685327625",
+    "image": "/images/188-nh4-h2s-h2-o2-gas-detector.jpg",
     "slug": "nh4-h2s-h2-o2-gas-detector",
     "shortDescription": "Professional NH4, H2S, H2, O2 Gas Detector for industrial applications."
   },
@@ -1516,7 +1516,7 @@ export const products: Product[] = [
     "id": "189",
     "name": "Combustible Gas Detector",
     "category": "Air Quality Meters & Portable Gas Detectors",
-    "image": "/images/189-combustible-gas-detector.jpg?v=1790685327625",
+    "image": "/images/189-combustible-gas-detector.jpg",
     "slug": "combustible-gas-detector",
     "shortDescription": "Professional Combustible Gas Detector for industrial applications."
   },
@@ -1524,7 +1524,7 @@ export const products: Product[] = [
     "id": "190",
     "name": "ER Series Collets",
     "category": "Milling Tools & Accessories",
-    "image": "/images/190-er-series-collets.jpg?v=1790685327625",
+    "image": "/images/190-er-series-collets.jpg",
     "slug": "er-series-collets",
     "shortDescription": "Professional ER Series Collets for industrial applications."
   },
@@ -1532,7 +1532,7 @@ export const products: Product[] = [
     "id": "191",
     "name": "R8/M1TR Collets",
     "category": "Milling Tools & Accessories",
-    "image": "/images/191-r8-m1tr-collets.jpg?v=1790685327625",
+    "image": "/images/191-r8-m1tr-collets.jpg",
     "slug": "r8-m1tr-collets",
     "shortDescription": "Professional R8/M1TR Collets for industrial applications."
   },
@@ -1540,7 +1540,7 @@ export const products: Product[] = [
     "id": "192",
     "name": "Boring Heads",
     "category": "Milling Tools & Accessories",
-    "image": "/images/192-boring-heads.jpg?v=1790685327625",
+    "image": "/images/192-boring-heads.jpg",
     "slug": "boring-heads",
     "shortDescription": "Professional Boring Heads for industrial applications."
   },
@@ -1548,7 +1548,7 @@ export const products: Product[] = [
     "id": "193",
     "name": "Milling Adopters",
     "category": "Milling Tools & Accessories",
-    "image": "/images/193-milling-adopters.jpg?v=1790685327625",
+    "image": "/images/193-milling-adopters.jpg",
     "slug": "milling-adopters",
     "shortDescription": "Professional Milling Adopters for industrial applications."
   },
@@ -1556,7 +1556,7 @@ export const products: Product[] = [
     "id": "194",
     "name": "Magnetic Vee Blocks",
     "category": "Milling Tools & Accessories",
-    "image": "/images/194-magnetic-vee-blocks.jpg?v=1790685327625",
+    "image": "/images/194-magnetic-vee-blocks.jpg",
     "slug": "magnetic-vee-blocks",
     "shortDescription": "Professional Magnetic Vee Blocks for industrial applications."
   },
@@ -1564,7 +1564,7 @@ export const products: Product[] = [
     "id": "195",
     "name": "Clamping Kit",
     "category": "Milling Tools & Accessories",
-    "image": "/images/195-clamping-kit.jpg?v=1790685327625",
+    "image": "/images/195-clamping-kit.jpg",
     "slug": "clamping-kit",
     "shortDescription": "Professional Clamping Kit for industrial applications."
   },
@@ -1572,7 +1572,7 @@ export const products: Product[] = [
     "id": "196",
     "name": "Drill Machine Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/196-drill-machine-vice.jpg?v=1790685327625",
+    "image": "/images/196-drill-machine-vice.jpg",
     "slug": "drill-machine-vice",
     "shortDescription": "Professional Drill Machine Vice for industrial applications."
   },
@@ -1580,7 +1580,7 @@ export const products: Product[] = [
     "id": "197",
     "name": "Lock Down Milling Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/197-lock-down-milling-vice.jpg?v=1790685327626",
+    "image": "/images/197-lock-down-milling-vice.jpg",
     "slug": "lock-down-milling-vice",
     "shortDescription": "Professional Lock Down Milling Vice for industrial applications."
   },
@@ -1588,7 +1588,7 @@ export const products: Product[] = [
     "id": "198",
     "name": "Single Angle Milling Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/198-single-angle-milling-vice.jpg?v=1790685327626",
+    "image": "/images/198-single-angle-milling-vice.jpg",
     "slug": "single-angle-milling-vice",
     "shortDescription": "Professional Single Angle Milling Vice for industrial applications."
   },
@@ -1596,7 +1596,7 @@ export const products: Product[] = [
     "id": "199",
     "name": "Two Angle Milling Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/199-two-angle-milling-vice.jpg?v=1790685327626",
+    "image": "/images/199-two-angle-milling-vice.jpg",
     "slug": "two-angle-milling-vice",
     "shortDescription": "Professional Two Angle Milling Vice for industrial applications."
   },
@@ -1604,7 +1604,7 @@ export const products: Product[] = [
     "id": "200",
     "name": "Three Angle Milling Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/200-three-angle-milling-vice.jpg?v=1790685327626",
+    "image": "/images/200-three-angle-milling-vice.jpg",
     "slug": "three-angle-milling-vice",
     "shortDescription": "Professional Three Angle Milling Vice for industrial applications."
   },
@@ -1612,7 +1612,7 @@ export const products: Product[] = [
     "id": "201",
     "name": "Screw Type Grinding Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/201-screw-type-grinding-vice.jpg?v=1790685327626",
+    "image": "/images/201-screw-type-grinding-vice.jpg",
     "slug": "screw-type-grinding-vice",
     "shortDescription": "Professional Screw Type Grinding Vice for industrial applications."
   },
@@ -1620,7 +1620,7 @@ export const products: Product[] = [
     "id": "202",
     "name": "Sine Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/202-sine-vice.jpg?v=1790685327626",
+    "image": "/images/202-sine-vice.jpg",
     "slug": "sine-vice",
     "shortDescription": "Professional Sine Vice for industrial applications."
   },
@@ -1628,7 +1628,7 @@ export const products: Product[] = [
     "id": "203",
     "name": "Keyless Drill Chucks",
     "category": "Milling Tools & Accessories",
-    "image": "/images/203-keyless-drill-chucks.jpg?v=1790685327626",
+    "image": "/images/203-keyless-drill-chucks.jpg",
     "slug": "keyless-drill-chucks",
     "shortDescription": "Professional Keyless Drill Chucks for industrial applications."
   },
@@ -1636,7 +1636,7 @@ export const products: Product[] = [
     "id": "204",
     "name": "Drill Chucks with Keys",
     "category": "Milling Tools & Accessories",
-    "image": "/images/204-drill-chucks-with-keys.jpg?v=1790685327626",
+    "image": "/images/204-drill-chucks-with-keys.jpg",
     "slug": "drill-chucks-with-keys",
     "shortDescription": "Professional Drill Chucks with Keys for industrial applications."
   },
@@ -1644,7 +1644,7 @@ export const products: Product[] = [
     "id": "205",
     "name": "CNC Adopters",
     "category": "Milling Tools & Accessories",
-    "image": "/images/205-cnc-adopters.jpg?v=1790685327626",
+    "image": "/images/205-cnc-adopters.jpg",
     "slug": "cnc-adopters",
     "shortDescription": "Professional CNC Adopters for industrial applications."
   },
@@ -1652,7 +1652,7 @@ export const products: Product[] = [
     "id": "206",
     "name": "Carbide Endmills",
     "category": "Milling Tools & Accessories",
-    "image": "/images/206-carbide-endmills.jpg?v=1790685327626",
+    "image": "/images/206-carbide-endmills.jpg",
     "slug": "carbide-endmills",
     "shortDescription": "Professional Carbide Endmills for industrial applications."
   },
@@ -1660,7 +1660,7 @@ export const products: Product[] = [
     "id": "207",
     "name": "Allen Key Vice",
     "category": "Milling Tools & Accessories",
-    "image": "/images/207-allen-key-vice.jpg?v=1790685327626",
+    "image": "/images/207-allen-key-vice.jpg",
     "slug": "allen-key-vice",
     "shortDescription": "Professional Allen Key Vice for industrial applications."
   },
@@ -1668,7 +1668,7 @@ export const products: Product[] = [
     "id": "208",
     "name": "Self Opening Die Heads",
     "category": "Threading Taps & Gauges",
-    "image": "/images/208-self-opening-die-heads.jpg?v=1790685327627",
+    "image": "/images/208-self-opening-die-heads.jpg",
     "slug": "self-opening-die-heads",
     "shortDescription": "Professional Self Opening Die Heads for industrial applications."
   },
@@ -1676,7 +1676,7 @@ export const products: Product[] = [
     "id": "209",
     "name": "Tapping Attachments",
     "category": "Threading Taps & Gauges",
-    "image": "/images/209-tapping-attachments.jpg?v=1790685327627",
+    "image": "/images/209-tapping-attachments.jpg",
     "slug": "tapping-attachments",
     "shortDescription": "Professional Tapping Attachments for industrial applications."
   },
@@ -1684,7 +1684,7 @@ export const products: Product[] = [
     "id": "210",
     "name": "Threading Taps",
     "category": "Threading Taps & Gauges",
-    "image": "/images/210-threading-taps.jpg?v=1790685327627",
+    "image": "/images/210-threading-taps.jpg",
     "slug": "threading-taps",
     "shortDescription": "Professional Threading Taps for industrial applications."
   },
@@ -1692,7 +1692,7 @@ export const products: Product[] = [
     "id": "211",
     "name": "Threading Dies",
     "category": "Threading Taps & Gauges",
-    "image": "/images/211-threading-dies.jpg?v=1790685327627",
+    "image": "/images/211-threading-dies.jpg",
     "slug": "threading-dies",
     "shortDescription": "Professional Threading Dies for industrial applications."
   },
@@ -1700,7 +1700,7 @@ export const products: Product[] = [
     "id": "212",
     "name": "Thread Plug Gauge",
     "category": "Threading Taps & Gauges",
-    "image": "/images/212-thread-plug-gauge.jpg?v=1790685327627",
+    "image": "/images/212-thread-plug-gauge.jpg",
     "slug": "thread-plug-gauge",
     "shortDescription": "Professional Thread Plug Gauge for industrial applications."
   },
@@ -1708,7 +1708,7 @@ export const products: Product[] = [
     "id": "213",
     "name": "Thread Ring Gauge",
     "category": "Threading Taps & Gauges",
-    "image": "/images/213-thread-ring-gauge.jpg?v=1790685327627",
+    "image": "/images/213-thread-ring-gauge.jpg",
     "slug": "thread-ring-gauge",
     "shortDescription": "Professional Thread Ring Gauge for industrial applications."
   },
@@ -1716,7 +1716,7 @@ export const products: Product[] = [
     "id": "214",
     "name": "Tap & Die Sets",
     "category": "Threading Taps & Gauges",
-    "image": "/images/214-tap-die-sets.jpg?v=1790685327627",
+    "image": "/images/214-tap-die-sets.jpg",
     "slug": "tap-die-sets",
     "shortDescription": "Professional Tap & Die Sets for industrial applications."
   },
@@ -1724,7 +1724,7 @@ export const products: Product[] = [
     "id": "215",
     "name": "Table Top Magnifier with Light",
     "category": "Magnifiers",
-    "image": "/images/215-table-top-magnifier-with-light.jpg?v=1790685327627",
+    "image": "/images/215-table-top-magnifier-with-light.jpg",
     "slug": "table-top-magnifier-with-light",
     "shortDescription": "Professional Table Top Magnifier with Light for industrial applications."
   },
@@ -1732,7 +1732,7 @@ export const products: Product[] = [
     "id": "216",
     "name": "LED Magnifying Glass",
     "category": "Magnifiers",
-    "image": "/images/216-led-magnifying-glass-v3.svg?v=1790685327627",
+    "image": "/images/216-led-magnifying-glass-v3.svg",
     "slug": "led-magnifying-glass",
     "shortDescription": "Professional LED Magnifying Glass for industrial applications."
   },
@@ -1740,7 +1740,7 @@ export const products: Product[] = [
     "id": "217",
     "name": "10X Magnifier",
     "category": "Magnifiers",
-    "image": "/images/217-10x-magnifier.jpg?v=1790685327627",
+    "image": "/images/217-10x-magnifier.jpg",
     "slug": "10x-magnifier",
     "shortDescription": "Professional 10X Magnifier for industrial applications."
   },
@@ -1748,7 +1748,7 @@ export const products: Product[] = [
     "id": "218",
     "name": "10X Magnifier with Scale and Light",
     "category": "Magnifiers",
-    "image": "/images/218-10x-magnifier-with-scale-and-light.jpg?v=1790685327627",
+    "image": "/images/218-10x-magnifier-with-scale-and-light.jpg",
     "slug": "10x-magnifier-with-scale-and-light",
     "shortDescription": "Professional 10X Magnifier with Scale and Light for industrial applications."
   },
@@ -1756,7 +1756,7 @@ export const products: Product[] = [
     "id": "219",
     "name": "Magnifier with Head Lamp",
     "category": "Magnifiers",
-    "image": "/images/219-magnifier-with-head-lamp.jpg?v=1790685327627",
+    "image": "/images/219-magnifier-with-head-lamp.jpg",
     "slug": "magnifier-with-head-lamp",
     "shortDescription": "Professional Magnifier with Head Lamp for industrial applications."
   },
@@ -1764,7 +1764,7 @@ export const products: Product[] = [
     "id": "220",
     "name": "Jewelry Magnifier 20X",
     "category": "Magnifiers",
-    "image": "/images/220-jewelry-magnifier-20x.jpg?v=1790685327627",
+    "image": "/images/220-jewelry-magnifier-20x.jpg",
     "slug": "jewelry-magnifier-20x",
     "shortDescription": "Professional Jewelry Magnifier 20X for industrial applications."
   },
@@ -1772,7 +1772,7 @@ export const products: Product[] = [
     "id": "221",
     "name": "Optical Glass Lens Magnifier 20X",
     "category": "Magnifiers",
-    "image": "/images/221-optical-glass-lens-magnifier-20x.jpg?v=1790685327628",
+    "image": "/images/221-optical-glass-lens-magnifier-20x.jpg",
     "slug": "optical-glass-lens-magnifier-20x",
     "shortDescription": "Professional Optical Glass Lens Magnifier 20X for industrial applications."
   },
@@ -1780,7 +1780,7 @@ export const products: Product[] = [
     "id": "222",
     "name": "Dome Magnifier with LED Light – 6.5X",
     "category": "Magnifiers",
-    "image": "/images/222-dome-magnifier-with-led-light-6-5x.jpg?v=1790685327628",
+    "image": "/images/222-dome-magnifier-with-led-light-6-5x.jpg",
     "slug": "dome-magnifier-with-led-light-6-5x",
     "shortDescription": "Professional Dome Magnifier with LED Light – 6.5X for industrial applications."
   },
@@ -1788,7 +1788,7 @@ export const products: Product[] = [
     "id": "223",
     "name": "LED Magnifier 4.5X",
     "category": "Magnifiers",
-    "image": "/images/223-led-magnifier-4-5x.jpg?v=1790685327628",
+    "image": "/images/223-led-magnifier-4-5x.jpg",
     "slug": "led-magnifier-4-5x",
     "shortDescription": "Professional LED Magnifier 4.5X for industrial applications."
   },
@@ -1796,7 +1796,7 @@ export const products: Product[] = [
     "id": "224",
     "name": "Portable High Resolution (500X) Digital Microscope",
     "category": "Magnifiers",
-    "image": "/images/224-portable-high-resolution-500x-digital-microscope.jpg?v=1790685327628",
+    "image": "/images/224-portable-high-resolution-500x-digital-microscope.jpg",
     "slug": "portable-high-resolution-500x-digital-microscope",
     "shortDescription": "Professional Portable High Resolution (500X) Digital Microscope for industrial applications."
   },
@@ -1804,7 +1804,7 @@ export const products: Product[] = [
     "id": "225",
     "name": "Digital Microscope with USB 200X Magnification",
     "category": "Magnifiers",
-    "image": "/images/225-digital-microscope-with-usb-200x-magnification.jpg?v=1790685327628",
+    "image": "/images/225-digital-microscope-with-usb-200x-magnification.jpg",
     "slug": "digital-microscope-with-usb-200x-magnification",
     "shortDescription": "Professional Digital Microscope with USB 200X Magnification for industrial applications."
   },
@@ -1812,7 +1812,7 @@ export const products: Product[] = [
     "id": "226",
     "name": "UV Detector",
     "category": "Miscellaneous",
-    "image": "/images/226-uv-detector.jpg?v=1790685327628",
+    "image": "/images/226-uv-detector.jpg",
     "slug": "uv-detector",
     "shortDescription": "Professional UV Detector for industrial applications."
   },
@@ -1820,7 +1820,7 @@ export const products: Product[] = [
     "id": "227",
     "name": "Radiation Detector",
     "category": "Miscellaneous",
-    "image": "/images/227-radiation-detector.jpg?v=1790685327628",
+    "image": "/images/227-radiation-detector.jpg",
     "slug": "radiation-detector",
     "shortDescription": "Professional Radiation Detector for industrial applications."
   },
@@ -1828,7 +1828,7 @@ export const products: Product[] = [
     "id": "228",
     "name": "EMF Tester",
     "category": "Miscellaneous",
-    "image": "/images/228-emf-tester.jpg?v=1790685327628",
+    "image": "/images/228-emf-tester.jpg",
     "slug": "emf-tester",
     "shortDescription": "Professional EMF Tester for industrial applications."
   },
@@ -1836,7 +1836,7 @@ export const products: Product[] = [
     "id": "229",
     "name": "Multimeter",
     "category": "Miscellaneous",
-    "image": "/images/229-multimeter.jpg?v=1790685327628",
+    "image": "/images/229-multimeter.jpg",
     "slug": "multimeter",
     "shortDescription": "Professional Multimeter for industrial applications."
   },
@@ -1844,7 +1844,7 @@ export const products: Product[] = [
     "id": "230",
     "name": "Multimeter HD",
     "category": "Miscellaneous",
-    "image": "/images/230-multimeter-hd.jpg?v=1790685327628",
+    "image": "/images/230-multimeter-hd.jpg",
     "slug": "multimeter-hd",
     "shortDescription": "Professional Multimeter HD for industrial applications."
   },
@@ -1852,7 +1852,7 @@ export const products: Product[] = [
     "id": "231",
     "name": "Metal Detector",
     "category": "Miscellaneous",
-    "image": "/images/231-metal-detector.jpg?v=1790685327628",
+    "image": "/images/231-metal-detector.jpg",
     "slug": "metal-detector",
     "shortDescription": "Professional Metal Detector for industrial applications."
   },
@@ -1860,7 +1860,7 @@ export const products: Product[] = [
     "id": "232",
     "name": "Mechanical Torque Wrench",
     "category": "Miscellaneous",
-    "image": "/images/232-mechanical-torque-wrench.jpg?v=1790685327628",
+    "image": "/images/232-mechanical-torque-wrench.jpg",
     "slug": "mechanical-torque-wrench",
     "shortDescription": "Professional Mechanical Torque Wrench for industrial applications."
   },
@@ -1868,7 +1868,7 @@ export const products: Product[] = [
     "id": "233",
     "name": "Dial Torque Wrench",
     "category": "Miscellaneous",
-    "image": "/images/233-dial-torque-wrench.jpg?v=1790685327628",
+    "image": "/images/233-dial-torque-wrench.jpg",
     "slug": "dial-torque-wrench",
     "shortDescription": "Professional Dial Torque Wrench for industrial applications."
   },
@@ -1876,7 +1876,7 @@ export const products: Product[] = [
     "id": "234",
     "name": "Digital Torque Wrench",
     "category": "Miscellaneous",
-    "image": "/images/234-digital-torque-wrench.jpg?v=1790685327629",
+    "image": "/images/234-digital-torque-wrench.jpg",
     "slug": "digital-torque-wrench",
     "shortDescription": "Professional Digital Torque Wrench for industrial applications."
   },
@@ -1884,7 +1884,7 @@ export const products: Product[] = [
     "id": "235",
     "name": "100 Pieces Tool Kit",
     "category": "Miscellaneous",
-    "image": "/images/235-100-pieces-tool-kit.jpg?v=1790685327629",
+    "image": "/images/235-100-pieces-tool-kit.jpg",
     "slug": "100-pieces-tool-kit",
     "shortDescription": "Professional 100 Pieces Tool Kit for industrial applications."
   },
@@ -1892,7 +1892,7 @@ export const products: Product[] = [
     "id": "236",
     "name": "Scale Type Protector",
     "category": "Miscellaneous",
-    "image": "/images/236-scale-type-protector.jpg?v=1790685327629",
+    "image": "/images/236-scale-type-protector.jpg",
     "slug": "scale-type-protector",
     "shortDescription": "Professional Scale Type Protector for industrial applications."
   },
@@ -1900,7 +1900,7 @@ export const products: Product[] = [
     "id": "237",
     "name": "Surface Plate",
     "category": "Miscellaneous",
-    "image": "/images/237-surface-plate.jpg?v=1790685327629",
+    "image": "/images/237-surface-plate.jpg",
     "slug": "surface-plate",
     "shortDescription": "Professional Surface Plate for industrial applications."
   },
@@ -1908,7 +1908,7 @@ export const products: Product[] = [
     "id": "238",
     "name": "Counter Meter",
     "category": "Miscellaneous",
-    "image": "/images/238-counter-meter.jpg?v=1790685327629",
+    "image": "/images/238-counter-meter.jpg",
     "slug": "counter-meter",
     "shortDescription": "Professional Counter Meter for industrial applications."
   },
@@ -1916,7 +1916,7 @@ export const products: Product[] = [
     "id": "239",
     "name": "Digital Altimeter/Barometer",
     "category": "Miscellaneous",
-    "image": "/images/239-digital-altimeter-barometer.jpg?v=1790685327629",
+    "image": "/images/239-digital-altimeter-barometer.jpg",
     "slug": "digital-altimeter-barometer",
     "shortDescription": "Professional Digital Altimeter/Barometer for industrial applications."
   },
@@ -1924,7 +1924,7 @@ export const products: Product[] = [
     "id": "240",
     "name": "Micrometer Stands",
     "category": "Miscellaneous",
-    "image": "/images/240-micrometer-stands.jpg?v=1790685327629",
+    "image": "/images/240-micrometer-stands.jpg",
     "slug": "micrometer-stands",
     "shortDescription": "Professional Micrometer Stands for industrial applications."
   },
@@ -1932,7 +1932,7 @@ export const products: Product[] = [
     "id": "241",
     "name": "Digital Radius Gauge",
     "category": "Miscellaneous",
-    "image": "/images/241-digital-radius-gauge.jpg?v=1790685327629",
+    "image": "/images/241-digital-radius-gauge.jpg",
     "slug": "digital-radius-gauge",
     "shortDescription": "Professional Digital Radius Gauge for industrial applications."
   },
@@ -1940,7 +1940,7 @@ export const products: Product[] = [
     "id": "242",
     "name": "Refractometer",
     "category": "Miscellaneous",
-    "image": "/images/242-refractometer.jpg?v=1790685327629",
+    "image": "/images/242-refractometer.jpg",
     "slug": "refractometer",
     "shortDescription": "Professional Refractometer for industrial applications."
   },
@@ -1948,7 +1948,7 @@ export const products: Product[] = [
     "id": "243",
     "name": "Digital Bore Scope",
     "category": "Miscellaneous",
-    "image": "/images/243-digital-bore-scope.jpg?v=1790685327629",
+    "image": "/images/243-digital-bore-scope.jpg",
     "slug": "digital-bore-scope",
     "shortDescription": "Professional Digital Bore Scope for industrial applications."
   },
@@ -1956,7 +1956,7 @@ export const products: Product[] = [
     "id": "244",
     "name": "Thermal Imager",
     "category": "Miscellaneous",
-    "image": "/images/244-thermal-imager.jpg?v=1790685327629",
+    "image": "/images/244-thermal-imager.jpg",
     "slug": "thermal-imager",
     "shortDescription": "Professional Thermal Imager for industrial applications."
   },
@@ -1964,7 +1964,7 @@ export const products: Product[] = [
     "id": "245",
     "name": "Clamp Meter",
     "category": "Miscellaneous",
-    "image": "/images/245-clamp-meter.jpg?v=1790685327629",
+    "image": "/images/245-clamp-meter.jpg",
     "slug": "clamp-meter",
     "shortDescription": "Professional Clamp Meter for industrial applications."
   },
@@ -1972,7 +1972,7 @@ export const products: Product[] = [
     "id": "246",
     "name": "PI Tape",
     "category": "Miscellaneous",
-    "image": "/images/246-pi-tape.jpg?v=1790685327630",
+    "image": "/images/246-pi-tape.jpg",
     "slug": "pi-tape",
     "shortDescription": "Professional PI Tape for industrial applications."
   }
