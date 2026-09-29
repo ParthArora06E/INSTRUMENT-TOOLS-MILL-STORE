@@ -1,13 +1,15 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-brand-navy: #0d1b4c;
-  --color-brand-red: #c8102e;
-  --color-brand-yellow: #facc15;
-  --color-brand-green: #16a34a;
+  --color-brand-navy: #0F172A; /* Deep Charcoal/Navy */
+  --color-brand-red: #D92D20;  /* Industrial Accent Red */
+  --color-brand-yellow: #F59E0B; /* Industrial Accent Yellow */
+  --color-brand-green: #16A34A;
+  --color-surface: #FAFAFA; /* Off-white for B2B */
+  --color-border: #E2E8F0;
 
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-heading: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-inter), ui-sans-serif, system-ui, sans-serif; /* Poppins might be too playful, keeping it clean with Inter for both if possible, or leave it as Poppins if they want */
 
   --animate-marquee: marquee 25s linear infinite;
 
@@ -18,8 +20,8 @@
 }
 
 body {
-  background-color: white;
-  color: #171717;
+  background-color: var(--color-surface);
+  color: #1E293B; /* Slate 800 */
 }
 
 /* Utilities for hiding scrollbar on lists if needed */

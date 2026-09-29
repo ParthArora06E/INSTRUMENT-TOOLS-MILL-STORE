@@ -11,16 +11,16 @@ export const metadata = {
 
 export default function ProductsPage() {
   return (
-    <main className="flex min-h-screen flex-col justify-between w-full bg-gray-50 pt-32">
+    <main className="flex min-h-screen flex-col justify-between w-full bg-slate-50">
       <Navbar />
       
-      <div className="container mx-auto px-4 py-12 flex-grow">
-        <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-heading font-extrabold text-brand-navy mb-4">
-            Our Complete Inventory
+      <div className="container mx-auto px-4 py-8 flex-grow">
+        <div className="text-center mb-10">
+          <h1 className="text-3xl md:text-5xl font-heading font-black text-brand-navy mb-4 tracking-tight uppercase">
+            Product Catalogue
           </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Explore our comprehensive range of high-quality industrial tools. Use the categories below to filter the products.
+          <p className="text-base text-slate-500 max-w-2xl mx-auto">
+            Explore our comprehensive range of high-quality industrial tools. Use the search or categories below to find specific items.
           </p>
         </div>
         

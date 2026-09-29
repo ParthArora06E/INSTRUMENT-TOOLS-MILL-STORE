@@ -1,11 +1,11 @@
 "use client";
 
 import Image from "next/image";
-
 import { Product } from "../data/products";
 import { generateWhatsAppLink, getProductEnquiryMessage } from "@/lib/whatsapp";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
+import { FileText, ArrowRight } from "lucide-react";
 
 export default function ProductCard({ product }: { product: Product }) {
   const [whatsappUrl, setWhatsappUrl] = useState("");
@@ -16,45 +16,61 @@ export default function ProductCard({ product }: { product: Product }) {
 
   return (
     <motion.div 
-      initial={{ opacity: 0, scale: 0.95 }}
-      whileInView={{ opacity: 1, scale: 1 }}
+      initial={{ opacity: 0, y: 10 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      transition={{ duration: 0.4 }}
-      className="group flex flex-col bg-white border border-gray-100 rounded-2xl overflow-hidden hover:shadow-xl hover:border-gray-200 transition-all duration-300"
+      transition={{ duration: 0.3 }}
+      className="group flex flex-col bg-white border border-slate-200 hover:border-brand-navy/30 transition-all duration-300 relative rounded-sm h-full"
     >
-      <div className="relative aspect-square w-full bg-white flex items-center justify-center p-6 overflow-hidden">
+      {/* Category Badge */}
+      <div className="absolute top-3 left-3 z-10">
+        <span className="bg-slate-100 text-slate-600 border border-slate-200 text-[10px] font-bold px-2 py-1 uppercase tracking-wider">
+          {product.category}
+        </span>
+      </div>
+
+      {/* Image Container */}
+      <div className="relative aspect-[4/3] w-full bg-white flex items-center justify-center p-4 overflow-hidden border-b border-slate-100">
         <Image 
           src={product.image} 
           alt={product.name}
           fill
-          className="object-contain p-6 mix-blend-multiply group-hover:scale-110 transition-transform duration-500"
+          className="object-contain p-4 mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
           sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw"
         />
-        <div className="absolute top-4 left-4">
-          <span className="bg-brand-navy/5 text-brand-navy text-xs font-bold px-2 py-1 rounded-md">
-            {product.category}
-          </span>
-        </div>
+        {/* Quick View Overlay (Visual only, subtle B2B style) */}
+        <div className="absolute inset-0 bg-brand-navy/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
       </div>
       
-      <div className="p-5 flex-grow flex flex-col border-t border-gray-50">
-        <div className="flex flex-col min-h-[4rem]">
-          <h3 className="text-gray-900 font-heading font-bold text-[13px] sm:text-base md:text-lg leading-tight mb-1 sm:mb-2 group-hover:text-brand-red transition-colors line-clamp-2">
+      {/* Content */}
+      <div className="p-4 sm:p-5 flex-grow flex flex-col bg-slate-50/50 group-hover:bg-white transition-colors duration-300">
+        <div className="flex flex-col mb-4">
+          <span className="text-[11px] text-slate-500 font-mono mb-1 bg-slate-100 w-fit px-1.5 py-0.5 rounded-sm border border-slate-200">SKU: {product.id.padStart(4, '0')}</span>
+          <h3 className="text-brand-navy font-heading font-bold text-[14px] sm:text-[15px] leading-tight mb-2 group-hover:text-brand-red transition-colors line-clamp-2">
             {product.name}
           </h3>
-          <p className="text-[11px] sm:text-sm text-gray-500 mb-3 sm:mb-6 line-clamp-2">
+          <p className="text-[12px] sm:text-[13px] text-slate-600 line-clamp-2 leading-relaxed">
             {product.shortDescription}
           </p>
         </div>
         
-        <div className="mt-auto pt-3 sm:pt-4 border-t border-gray-100 flex flex-col">
+        {/* Footer actions */}
+        <div className="mt-auto pt-4 border-t border-slate-200 flex flex-col gap-2">
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-xs font-bold text-green-700 flex items-center gap-1">
+              <span className="w-1.5 h-1.5 rounded-full bg-green-600"></span> In Stock
+            </span>
+            <span className="text-xs text-slate-500 font-medium flex items-center gap-1 cursor-help" title="Contact for technical specifications">
+              <FileText className="w-3.5 h-3.5" /> Specs
+            </span>
+          </div>
           <a 
             href={whatsappUrl} 
             target="_blank" 
             rel="noopener noreferrer"
-            className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white text-center py-3 rounded-lg text-sm font-bold transition-colors"
+            className="w-full bg-slate-800 hover:bg-brand-red text-white text-center py-2.5 rounded-sm text-sm font-bold transition-colors flex items-center justify-center gap-2 group/btn"
           >
-            Enquire on WhatsApp
+            Request Quote <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
           </a>
         </div>
       </div>

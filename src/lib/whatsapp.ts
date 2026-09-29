@@ -1,6 +1,6 @@
 import { Product } from "@/data/products";
 
-export const WHATSAPP_NUMBER = "917208358851";
+export const WHATSAPP_NUMBER = "917289928179";
 
 export function generateWhatsAppLink(message: string): string {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;

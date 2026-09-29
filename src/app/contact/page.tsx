@@ -23,7 +23,7 @@ export default function ContactPage() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col w-full bg-gray-50 pt-32">
+    <main className="flex min-h-screen flex-col w-full bg-gray-50">
       <Navbar />
       
       <div className="container mx-auto px-4 py-12 flex-grow">
@@ -44,19 +44,7 @@ export default function ContactPage() {
             <h2 className="text-3xl font-heading font-bold mb-8 relative z-10">Get In Touch</h2>
             
             <ul className="space-y-8 relative z-10">
-              <li className="flex items-start gap-4">
-                <div className="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center flex-shrink-0">
-                  <MapPin className="w-6 h-6 text-brand-yellow" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-lg mb-1">Office Address</h4>
-                  <p className="text-gray-300 leading-relaxed">
-                    Bharat city<br/>
-                    Ghazibad,<br/>
-                    Uttar Pardesh
-                  </p>
-                </div>
-              </li>
+
               
               <li className="flex items-start gap-4">
                 <div className="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center flex-shrink-0">
