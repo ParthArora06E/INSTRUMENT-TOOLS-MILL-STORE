@@ -32,10 +32,10 @@ export default function AlsoAvailableBox() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.02, duration: 0.3 }}
-              className="flex items-center justify-between p-4 bg-slate-50 border border-slate-200 hover:border-brand-navy hover:bg-white transition-all group cursor-default"
+              className="flex items-center justify-between p-3 sm:p-4 bg-slate-50 border border-slate-200 hover:border-brand-navy hover:bg-white transition-all group cursor-default gap-2"
             >
-              <span className="font-semibold text-[13px] text-slate-700 group-hover:text-brand-navy">{item}</span>
-              <ChevronRight className="w-4 h-4 text-slate-300 group-hover:text-brand-red transition-colors" />
+              <span className="font-semibold text-[12px] sm:text-[13px] text-slate-700 group-hover:text-brand-navy leading-tight break-words">{item}</span>
+              <ChevronRight className="w-4 h-4 text-slate-300 group-hover:text-brand-red transition-colors flex-shrink-0" />
             </motion.div>
           ))}
         </div>

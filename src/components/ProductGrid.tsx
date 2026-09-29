@@ -66,11 +66,11 @@ export default function ProductGrid({ preview = false }: { preview?: boolean }) 
       </div>
 
       {/* Grid Header */}
-      <div className="flex justify-between items-center mb-6 pb-2 border-b-2 border-slate-100">
-        <h3 className="font-heading font-bold text-xl text-brand-navy">
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 sm:gap-0 mb-6 pb-2 border-b-2 border-slate-100">
+        <h3 className="font-heading font-bold text-lg sm:text-xl text-brand-navy line-clamp-2 w-full sm:w-auto">
           {activeCategory === "All" ? "Full Catalogue" : activeCategory}
         </h3>
-        <span className="text-sm font-semibold text-slate-500 bg-slate-100 px-3 py-1 rounded-sm">
+        <span className="text-xs sm:text-sm font-semibold text-slate-500 bg-slate-100 px-3 py-1 rounded-sm whitespace-nowrap">
           {filteredProducts.length} Results
         </span>
       </div>

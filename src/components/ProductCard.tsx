@@ -23,8 +23,8 @@ export default function ProductCard({ product }: { product: Product }) {
       className="group flex flex-col bg-white border border-slate-200 hover:border-brand-navy/30 transition-all duration-300 relative rounded-sm h-full"
     >
       {/* Category Badge */}
-      <div className="absolute top-3 left-3 z-10">
-        <span className="bg-slate-100 text-slate-600 border border-slate-200 text-[10px] font-bold px-2 py-1 uppercase tracking-wider">
+      <div className="absolute top-3 left-3 right-3 z-10 overflow-hidden">
+        <span className="bg-slate-100 text-slate-600 border border-slate-200 text-[10px] font-bold px-2 py-1 uppercase tracking-wider block truncate w-fit max-w-full">
           {product.category}
         </span>
       </div>
@@ -68,9 +68,9 @@ export default function ProductCard({ product }: { product: Product }) {
             href={whatsappUrl} 
             target="_blank" 
             rel="noopener noreferrer"
-            className="w-full bg-slate-800 hover:bg-brand-red text-white text-center py-2.5 rounded-sm text-sm font-bold transition-colors flex items-center justify-center gap-2 group/btn"
+            className="w-full bg-slate-800 hover:bg-brand-red text-white text-center py-2 sm:py-2.5 rounded-sm text-[11px] sm:text-sm font-bold transition-colors flex items-center justify-center gap-1.5 sm:gap-2 group/btn px-1"
           >
-            Request Quote <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
+            Request Quote <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 group-hover/btn:translate-x-1 transition-transform flex-shrink-0" />
           </a>
         </div>
       </div>
